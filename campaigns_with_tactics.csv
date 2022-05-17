@@ -1,0 +1,268 @@
+company,platform,campaign,start_date,end_date,amount,tactic
+Evian,Google Ads,Retargeting campaign,2022-03-01,2022-03-31,1107,Retargeting
+Evian,Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,847,Facebook Traffic
+Dasani,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,1231,Facebook Retargeting
+Heineken,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,823,Facebook Retargeting
+Heineken,Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,364,Facebook Traffic
+Heineken,Google Ads,Retargeting campaign,2022-03-01,2022-03-31,1898,Retargeting
+Heineken,Google Ads,Search campaign,2022-03-01,2022-03-31,138,Search
+Tetley's Brewery,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,326,Facebook Retargeting
+Tetley's Brewery,Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,996,Facebook Traffic
+Batemans Brewery,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,1564,Facebook Retargeting
+Jones Soda,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,346,Facebook Retargeting
+Jones Soda,Google Ads,Retargeting campaign,2022-03-01,2022-03-31,641,Retargeting
+Jones Soda,Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,1252,Facebook Traffic
+Jones Soda,Google Ads,Search campaign,2022-03-01,2022-03-31,1877,Search
+Grapette,Google Ads,Retargeting campaign,2022-03-01,2022-03-31,1186,Retargeting
+Grapette,Google Ads,Search campaign,2022-03-01,2022-03-31,1022,Search
+Jif (lemon juice),Google Ads,Search campaign,2022-03-01,2022-03-31,930,Search
+Royal Tru,Google Ads,Search campaign,2022-03-01,2022-03-31,534,Search
+Royal Tru,Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,1951,Facebook Traffic
+Royal Tru,Google Ads,Retargeting campaign,2022-03-01,2022-03-31,1044,Retargeting
+Royal Tru,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,508,Facebook Retargeting
+Oronamin,Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,374,Facebook Traffic
+Culligan,Google Ads,Search campaign,2022-03-01,2022-03-31,263,Search
+Culligan,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,490,Facebook Retargeting
+Culligan,Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,1984,Facebook Traffic
+Belvedere Vodka,Google Ads,Retargeting campaign,2022-03-01,2022-03-31,306,Retargeting
+Belvedere Vodka,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,495,Facebook Retargeting
+Wodka Gorbatschow,Google Ads,Search campaign,2022-03-01,2022-03-31,1640,Search
+White Horse (whisky),Google Ads,Retargeting campaign,2022-03-01,2022-03-31,1725,Retargeting
+White Horse (whisky),Google Ads,Search campaign,2022-03-01,2022-03-31,1566,Search
+White Horse (whisky),Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,32,Facebook Traffic
+White Horse (whisky),Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,2123,Facebook Retargeting
+Grand Old Parr,Google Ads,Retargeting campaign,2022-03-01,2022-03-31,420,Retargeting
+Grand Old Parr,Google Ads,Search campaign,2022-03-01,2022-03-31,47,Search
+Grand Old Parr,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,1983,Facebook Retargeting
+Finlandia (vodka),Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,1690,Facebook Traffic
+Finlandia (vodka),Google Ads,Retargeting campaign,2022-03-01,2022-03-31,1115,Retargeting
+Finlandia (vodka),Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,537,Facebook Retargeting
+Finlandia (vodka),Google Ads,Search campaign,2022-03-01,2022-03-31,1507,Search
+Fanta,Google Ads,Search campaign,2022-03-01,2022-03-31,173,Search
+Pizza Hut,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,1217,Facebook Retargeting
+Pizza Hut,Google Ads,Retargeting campaign,2022-03-01,2022-03-31,1256,Retargeting
+Head & Shoulders,Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,1371,Facebook Traffic
+Domino's Pizza,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,1220,Facebook Retargeting
+Domino's Pizza,Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,730,Facebook Traffic
+Ben & Jerry's,Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,1140,Facebook Traffic
+Heineken,Google Ads,Retargeting campaign,2022-03-01,2022-03-31,748,Retargeting
+Heineken,Google Ads,Search campaign,2022-03-01,2022-03-31,1564,Search
+Heineken,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,382,Facebook Retargeting
+Heineken,Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,578,Facebook Traffic
+Gatorade,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,1303,Facebook Retargeting
+Gatorade,Google Ads,Retargeting campaign,2022-03-01,2022-03-31,572,Retargeting
+Gatorade,Google Ads,Search campaign,2022-03-01,2022-03-31,1491,Search
+Snickers,Google Ads,Retargeting campaign,2022-03-01,2022-03-31,1506,Retargeting
+Snickers,Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,1729,Facebook Traffic
+Nescafe,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,430,Facebook Retargeting
+Levi's Jeans,Google Ads,Retargeting campaign,2022-03-01,2022-03-31,1197,Retargeting
+Levi's Jeans,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,622,Facebook Retargeting
+Levi's Jeans,Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,462,Facebook Traffic
+Levi's Jeans,Google Ads,Search campaign,2022-03-01,2022-03-31,753,Search
+Lipton,Google Ads,Search campaign,2022-03-01,2022-03-31,1588,Search
+Pampers,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,2124,Facebook Retargeting
+Pampers,Google Ads,Search campaign,2022-03-01,2022-03-31,385,Search
+Beam Suntory,Google Ads,Search campaign,2022-03-01,2022-03-31,554,Search
+Beam Suntory,Google Ads,Retargeting campaign,2022-03-01,2022-03-31,1137,Retargeting
+Beam Suntory,Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,203,Facebook Traffic
+Live+,Google Ads,Search campaign,2022-03-01,2022-03-31,772,Search
+Live+,Google Ads,Retargeting campaign,2022-03-01,2022-03-31,1567,Retargeting
+Live+,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,542,Facebook Retargeting
+Live+,Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,1881,Facebook Traffic
+Tango (drink),Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,1654,Facebook Retargeting
+Tizer,Google Ads,Retargeting campaign,2022-03-01,2022-03-31,70,Retargeting
+Tizer,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,1518,Facebook Retargeting
+Dr. Enuf,Google Ads,Search campaign,2022-03-01,2022-03-31,920,Search
+Dr. Enuf,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,554,Facebook Retargeting
+Dr. Enuf,Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,956,Facebook Traffic
+Dr. Enuf,Google Ads,Retargeting campaign,2022-03-01,2022-03-31,867,Retargeting
+ToniCol,Google Ads,Search campaign,2022-03-01,2022-03-31,484,Search
+ToniCol,Google Ads,Retargeting campaign,2022-03-01,2022-03-31,894,Retargeting
+ToniCol,Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,125,Facebook Traffic
+ToniCol,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,1709,Facebook Retargeting
+Campa Cola,Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,1796,Facebook Traffic
+Campa Cola,Google Ads,Search campaign,2022-03-01,2022-03-31,1153,Search
+Campa Cola,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,1327,Facebook Retargeting
+Mezzo Mix,Google Ads,Search campaign,2022-03-01,2022-03-31,60,Search
+Mezzo Mix,Facebook Ads,Retargeting campaign,2022-03-01,2022-03-31,761,Facebook Retargeting
+Mezzo Mix,Facebook Ads,Traffic campaign,2022-03-01,2022-03-31,1788,Facebook Traffic
+Gatorade,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,25,Facebook Traffic
+Tetley's Brewery,Google Ads,Search campaign,2022-04-01,2022-04-30,974,Search
+Tetley's Brewery,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,229,Retargeting
+Tetley's Brewery,Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,691,Facebook Retargeting
+Tetley's Brewery,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,1968,Facebook Traffic
+Jones Soda,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,1744,Retargeting
+Grapette,Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,711,Facebook Retargeting
+Grapette,Google Ads,Search campaign,2022-04-01,2022-04-30,1751,Search
+Jif (lemon juice),Google Ads,Search campaign,2022-04-01,2022-04-30,26,Search
+Royal Tru,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,301,Facebook Traffic
+Oronamin,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,33,Retargeting
+Oronamin,Google Ads,Search campaign,2022-04-01,2022-04-30,1373,Search
+Oronamin,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,100,Facebook Traffic
+Culligan,Google Ads,Search campaign,2022-04-01,2022-04-30,2112,Search
+Culligan,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,752,Facebook Traffic
+Culligan,Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,1003,Facebook Retargeting
+Belvedere Vodka,Google Ads,Search campaign,2022-04-01,2022-04-30,658,Search
+Belvedere Vodka,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,174,Facebook Traffic
+Belvedere Vodka,Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,1249,Facebook Retargeting
+Wodka Gorbatschow,Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,1244,Facebook Retargeting
+Wodka Gorbatschow,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,585,Facebook Traffic
+Wodka Gorbatschow,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,1112,Retargeting
+Wodka Gorbatschow,Google Ads,Search campaign,2022-04-01,2022-04-30,1340,Search
+White Horse (whisky),Google Ads,Retargeting campaign,2022-04-01,2022-04-30,1090,Retargeting
+White Horse (whisky),Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,1327,Facebook Retargeting
+White Horse (whisky),Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,289,Facebook Traffic
+White Horse (whisky),Google Ads,Search campaign,2022-04-01,2022-04-30,2100,Search
+Grand Old Parr,Google Ads,Search campaign,2022-04-01,2022-04-30,912,Search
+Grand Old Parr,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,186,Retargeting
+Finlandia (vodka),Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,1920,Facebook Retargeting
+Finlandia (vodka),Google Ads,Search campaign,2022-04-01,2022-04-30,467,Search
+Finlandia (vodka),Google Ads,Retargeting campaign,2022-04-01,2022-04-30,810,Retargeting
+Colgate,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,709,Facebook Traffic
+Colgate,Google Ads,Search campaign,2022-04-01,2022-04-30,2034,Search
+Fanta,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,1759,Retargeting
+Pizza Hut,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,628,Facebook Traffic
+Pizza Hut,Google Ads,Search campaign,2022-04-01,2022-04-30,1391,Search
+Pizza Hut,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,1837,Retargeting
+Head & Shoulders,Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,1469,Facebook Retargeting
+Head & Shoulders,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,639,Facebook Traffic
+Head & Shoulders,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,1054,Retargeting
+Head & Shoulders,Google Ads,Search campaign,2022-04-01,2022-04-30,2008,Search
+Domino's Pizza,Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,1020,Facebook Retargeting
+Domino's Pizza,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,815,Facebook Traffic
+Domino's Pizza,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,296,Retargeting
+Heineken,Google Ads,Search campaign,2022-04-01,2022-04-30,339,Search
+Heineken,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,1680,Facebook Traffic
+Gatorade,Google Ads,Search campaign,2022-04-01,2022-04-30,1350,Search
+Gatorade,Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,566,Facebook Retargeting
+Gatorade,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,772,Facebook Traffic
+Milo,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,11,Facebook Traffic
+Milo,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,890,Retargeting
+Milo,Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,1694,Facebook Retargeting
+Milo,Google Ads,Search campaign,2022-04-01,2022-04-30,1135,Search
+Starbucks,Google Ads,Search campaign,2022-04-01,2022-04-30,406,Search
+Starbucks,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,65,Facebook Traffic
+Starbucks,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,213,Retargeting
+Starbucks,Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,543,Facebook Retargeting
+Audi,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,1313,Retargeting
+Audi,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,944,Facebook Traffic
+NIVEA,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,2006,Facebook Traffic
+NIVEA,Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,1171,Facebook Retargeting
+NIVEA,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,859,Retargeting
+NIVEA,Google Ads,Search campaign,2022-04-01,2022-04-30,1772,Search
+Snickers,Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,1596,Facebook Retargeting
+Snickers,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,1685,Retargeting
+KFC(Kentucky Fried Chicken),Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,47,Facebook Traffic
+KFC(Kentucky Fried Chicken),Google Ads,Retargeting campaign,2022-04-01,2022-04-30,1753,Retargeting
+KFC(Kentucky Fried Chicken),Google Ads,Search campaign,2022-04-01,2022-04-30,1714,Search
+KFC(Kentucky Fried Chicken),Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,1514,Facebook Retargeting
+Levi's Jeans,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,828,Retargeting
+Levi's Jeans,Google Ads,Search campaign,2022-04-01,2022-04-30,9,Search
+Levi's Jeans,Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,1067,Facebook Retargeting
+Levi's Jeans,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,800,Facebook Traffic
+Lipton,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,672,Facebook Traffic
+Lipton,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,2091,Retargeting
+Pampers,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,92,Retargeting
+Coca-Cola,Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,228,Facebook Retargeting
+Beam Suntory,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,41,Retargeting
+Tango (drink),Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,390,Facebook Retargeting
+Tizer,Google Ads,Search campaign,2022-04-01,2022-04-30,18,Search
+Tizer,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,301,Retargeting
+Tizer,Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,514,Facebook Retargeting
+Tizer,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,1669,Facebook Traffic
+Dr. Enuf,Google Ads,Search campaign,2022-04-01,2022-04-30,1425,Search
+Dr. Enuf,Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,1474,Facebook Retargeting
+Dr. Enuf,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,956,Retargeting
+Dr. Enuf,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,1031,Facebook Traffic
+ToniCol,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,1610,Retargeting
+ToniCol,Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,378,Facebook Retargeting
+ToniCol,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,1142,Facebook Traffic
+Campa Cola,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,1205,Facebook Traffic
+Campa Cola,Google Ads,Retargeting campaign,2022-04-01,2022-04-30,855,Retargeting
+Campa Cola,Facebook Ads,Retargeting campaign,2022-04-01,2022-04-30,76,Facebook Retargeting
+Mezzo Mix,Google Ads,Search campaign,2022-04-01,2022-04-30,462,Search
+Mezzo Mix,Facebook Ads,Traffic campaign,2022-04-01,2022-04-30,598,Facebook Traffic
+Costa Coffee,Google Ads,Search campaign,2022-05-01,2022-05-31,1730,Search
+Costa Coffee,Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,844,Facebook Traffic
+Evian,Google Ads,Retargeting campaign,2022-05-01,2022-05-31,1863,Retargeting
+Evian,Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,74,Facebook Traffic
+Dasani,Google Ads,Retargeting campaign,2022-05-01,2022-05-31,1570,Retargeting
+Dasani,Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,1514,Facebook Traffic
+Dasani,Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,1155,Facebook Retargeting
+Gatorade,Google Ads,Retargeting campaign,2022-05-01,2022-05-31,1134,Retargeting
+Gatorade,Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,148,Facebook Retargeting
+Gatorade,Google Ads,Search campaign,2022-05-01,2022-05-31,2001,Search
+Tetley's Brewery,Google Ads,Search campaign,2022-05-01,2022-05-31,1798,Search
+Tetley's Brewery,Google Ads,Retargeting campaign,2022-05-01,2022-05-31,510,Retargeting
+Tetley's Brewery,Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,179,Facebook Retargeting
+Tetley's Brewery,Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,295,Facebook Traffic
+Batemans Brewery,Google Ads,Search campaign,2022-05-01,2022-05-31,626,Search
+Batemans Brewery,Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,734,Facebook Traffic
+Jones Soda,Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,1338,Facebook Traffic
+Grapette,Google Ads,Retargeting campaign,2022-05-01,2022-05-31,889,Retargeting
+Grapette,Google Ads,Search campaign,2022-05-01,2022-05-31,1602,Search
+Jif (lemon juice),Google Ads,Retargeting campaign,2022-05-01,2022-05-31,378,Retargeting
+Jif (lemon juice),Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,1385,Facebook Traffic
+Royal Tru,Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,1859,Facebook Retargeting
+Royal Tru,Google Ads,Search campaign,2022-05-01,2022-05-31,220,Search
+Oronamin,Google Ads,Retargeting campaign,2022-05-01,2022-05-31,895,Retargeting
+Oronamin,Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,1915,Facebook Retargeting
+Oronamin,Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,1074,Facebook Traffic
+Oronamin,Google Ads,Search campaign,2022-05-01,2022-05-31,1176,Search
+Belvedere Vodka,Google Ads,Retargeting campaign,2022-05-01,2022-05-31,67,Retargeting
+Belvedere Vodka,Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,641,Facebook Retargeting
+Belvedere Vodka,Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,1475,Facebook Traffic
+Belvedere Vodka,Google Ads,Search campaign,2022-05-01,2022-05-31,1354,Search
+Wodka Gorbatschow,Google Ads,Search campaign,2022-05-01,2022-05-31,1364,Search
+Wodka Gorbatschow,Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,301,Facebook Retargeting
+White Horse (whisky),Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,939,Facebook Retargeting
+White Horse (whisky),Google Ads,Retargeting campaign,2022-05-01,2022-05-31,1937,Retargeting
+White Horse (whisky),Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,1178,Facebook Traffic
+Fanta,Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,1288,Facebook Retargeting
+Fanta,Google Ads,Retargeting campaign,2022-05-01,2022-05-31,1476,Retargeting
+Fanta,Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,1300,Facebook Traffic
+Fanta,Google Ads,Search campaign,2022-05-01,2022-05-31,1090,Search
+Head & Shoulders,Google Ads,Retargeting campaign,2022-05-01,2022-05-31,1497,Retargeting
+Head & Shoulders,Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,212,Facebook Retargeting
+Domino's Pizza,Google Ads,Retargeting campaign,2022-05-01,2022-05-31,248,Retargeting
+Heineken,Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,427,Facebook Retargeting
+Heineken,Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,785,Facebook Traffic
+Milo,Google Ads,Retargeting campaign,2022-05-01,2022-05-31,1154,Retargeting
+Milo,Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,374,Facebook Retargeting
+Milo,Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,597,Facebook Traffic
+Milo,Google Ads,Search campaign,2022-05-01,2022-05-31,905,Search
+Starbucks,Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,264,Facebook Retargeting
+NIVEA,Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,1756,Facebook Retargeting
+NIVEA,Google Ads,Retargeting campaign,2022-05-01,2022-05-31,850,Retargeting
+NIVEA,Google Ads,Search campaign,2022-05-01,2022-05-31,673,Search
+Snickers,Google Ads,Search campaign,2022-05-01,2022-05-31,1626,Search
+Nescafe,Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,850,Facebook Traffic
+KFC(Kentucky Fried Chicken),Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,2049,Facebook Traffic
+Levi's Jeans,Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,1368,Facebook Traffic
+Levi's Jeans,Google Ads,Search campaign,2022-05-01,2022-05-31,1908,Search
+Levi's Jeans,Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,1827,Facebook Retargeting
+Lipton,Google Ads,Retargeting campaign,2022-05-01,2022-05-31,1678,Retargeting
+Lipton,Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,216,Facebook Traffic
+Lipton,Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,1365,Facebook Retargeting
+Pampers,Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,1888,Facebook Traffic
+Pampers,Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,227,Facebook Retargeting
+Coca-Cola,Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,1985,Facebook Traffic
+Live+,Google Ads,Search campaign,2022-05-01,2022-05-31,655,Search
+Tango (drink),Google Ads,Search campaign,2022-05-01,2022-05-31,380,Search
+Tango (drink),Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,1589,Facebook Traffic
+Tango (drink),Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,1357,Facebook Retargeting
+Tango (drink),Google Ads,Retargeting campaign,2022-05-01,2022-05-31,627,Retargeting
+Tizer,Google Ads,Search campaign,2022-05-01,2022-05-31,1109,Search
+Tizer,Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,1693,Facebook Traffic
+Tizer,Google Ads,Retargeting campaign,2022-05-01,2022-05-31,1462,Retargeting
+Tizer,Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,402,Facebook Retargeting
+Dr. Enuf,Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,327,Facebook Retargeting
+Dr. Enuf,Google Ads,Retargeting campaign,2022-05-01,2022-05-31,552,Retargeting
+Dr. Enuf,Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,93,Facebook Traffic
+Dr. Enuf,Google Ads,Search campaign,2022-05-01,2022-05-31,291,Search
+ToniCol,Google Ads,Search campaign,2022-05-01,2022-05-31,1986,Search
+ToniCol,Google Ads,Retargeting campaign,2022-05-01,2022-05-31,1884,Retargeting
+Campa Cola,Google Ads,Search campaign,2022-05-01,2022-05-31,450,Search
+Campa Cola,Facebook Ads,Retargeting campaign,2022-05-01,2022-05-31,1223,Facebook Retargeting
+Campa Cola,Google Ads,Retargeting campaign,2022-05-01,2022-05-31,650,Retargeting
+Campa Cola,Facebook Ads,Traffic campaign,2022-05-01,2022-05-31,271,Facebook Traffic

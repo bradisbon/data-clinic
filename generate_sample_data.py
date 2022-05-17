@@ -67,11 +67,8 @@ class Tactic:
 ACCOUNTS_TACTICS = [
     [Account('4305', 'Google Ads'),Tactic('Search','Monthly Search Retainer')],
     [Account('4305', 'Google Ads'),Tactic('Retargeting','Monthly Retargeting Retainer')],
-    [Account('4305', 'Google Ads'),Tactic('Geotargeting','Monthly Geotargeting Retainer')],
     [Account('4315', 'Facebook Ads'),Tactic('Traffic','Monthly Traffic Retainer')],
     [Account('4315', 'Facebook Ads'),Tactic('Retargeting','Monthly Retargeting Retainer')],
-    [Account('4320', 'Simplifi'),Tactic('Geofencing','Monthly Geofencing Retainer')],
-    [Account('4320', 'Simplifi'),Tactic('CTV','Monthly CTV Retainer')],
 ]
 
 def create_parents(client_cos: typing.List[str], parent_cos: typing.List[str]) -> typing.List[str]:
@@ -107,7 +104,7 @@ def generate_line_item(company, account:Account, tactic:Tactic, spend_seed, date
             }
 
 
-def generate_spend(company, account:Account, tactic:Tactic, spend_seed, start_date:datetime.date, end_date:datetime.date):
+def generate_campaign(company, account:Account, tactic:Tactic, spend_seed, start_date:datetime.date, end_date:datetime.date):
 
     return {'company': company,
             'platform':account.name,
@@ -142,23 +139,23 @@ def generate_line_items(spend_seeds, date_within_start:datetime.date, date_withi
             for company, (account, tactic), spend_seed in spend_seeds]
 
 
-def generate_spends(spend_seeds, start_date:datetime.date, end_date:datetime.date):
-    return [generate_spend(company, account, tactic, spend_seed, start_date, end_date)
+def generate_campaigns(spend_seeds, start_date:datetime.date, end_date:datetime.date):
+    return [generate_campaign(company, account, tactic, spend_seed, start_date, end_date)
             for company, (account, tactic), spend_seed in spend_seeds]
 
 
 if __name__ == '__main__':
-    with open('line_items.csv','w') as f:
-        li_writer = csv.DictWriter(f,['date','company','gl','description','amount'])
+    with open('line_items.csv','w') as li_f:
+        li_writer = csv.DictWriter(li_f,['date','company','gl','description','amount'])
         li_writer.writeheader()
-        with open('spends.csv','w') as f:
-            spend_writer = csv.DictWriter(f,['start_date','end_date','company','platform','campaign','amount'])
-            spend_writer.writeheader()
+        with open('campaigns.csv','w') as c_f:
+            campaign_writer = csv.DictWriter(c_f,['start_date','end_date','company','platform','campaign','amount'])
+            campaign_writer.writeheader()
             
             for start_date, end_date in [(datetime.date(2022,3,1),datetime.date(2022,3,31)),
                                          (datetime.date(2022,4,1),datetime.date(2022,4,30)),
                                          (datetime.date(2022,5,1),datetime.date(2022,5,31)),]:
                 spend_seeds = generate_spend_seeds()
                 li_writer.writerows(generate_line_items(spend_seeds,start_date,end_date))
-                spend_writer.writerows(generate_spends(spend_seeds,start_date,end_date))
+                campaign_writer.writerows(generate_campaigns(spend_seeds,start_date,end_date))
     generate_parents_csv()
