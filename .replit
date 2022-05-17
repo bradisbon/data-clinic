@@ -1,0 +1,7 @@
+language = "python3"
+interpreter = "python"
+run = "python main.py"
+
+[languages.python3]
+  [languages.python3.languageServer]
+  start = ["pyls"]

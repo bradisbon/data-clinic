@@ -1,2 +1,5 @@
+import csv
+
 def load_csv():
-    pass
+    print('loading csv')
+    return []
