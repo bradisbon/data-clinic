@@ -1,0 +1,487 @@
+start_date,end_date,company,platform,campaign,amount
+2022-03-01,2022-03-31,Costa Coffee,Simplifi,Geofencing campaign,472
+2022-03-01,2022-03-31,Costa Coffee,Facebook Ads,Retargeting campaign,1834
+2022-03-01,2022-03-31,Costa Coffee,Google Ads,Search campaign,2032
+2022-03-01,2022-03-31,Evian,Simplifi,Geofencing campaign,903
+2022-03-01,2022-03-31,Evian,Simplifi,CTV campaign,1291
+2022-03-01,2022-03-31,Evian,Google Ads,Search campaign,1382
+2022-03-01,2022-03-31,Dasani,Facebook Ads,Retargeting campaign,1732
+2022-03-01,2022-03-31,Dasani,Google Ads,Geotargeting campaign,458
+2022-03-01,2022-03-31,Dasani,Facebook Ads,Traffic campaign,302
+2022-03-01,2022-03-31,Dasani,Google Ads,Search campaign,1748
+2022-03-01,2022-03-31,Dasani,Simplifi,Geofencing campaign,84
+2022-03-01,2022-03-31,Dasani,Google Ads,Retargeting campaign,2109
+2022-03-01,2022-03-31,Dasani,Simplifi,CTV campaign,735
+2022-03-01,2022-03-31,Heineken,Facebook Ads,Traffic campaign,364
+2022-03-01,2022-03-31,Heineken,Google Ads,Retargeting campaign,1718
+2022-03-01,2022-03-31,Heineken,Google Ads,Geotargeting campaign,831
+2022-03-01,2022-03-31,Gatorade,Simplifi,Geofencing campaign,2060
+2022-03-01,2022-03-31,Gatorade,Facebook Ads,Retargeting campaign,1745
+2022-03-01,2022-03-31,Gatorade,Google Ads,Search campaign,68
+2022-03-01,2022-03-31,Gatorade,Google Ads,Retargeting campaign,454
+2022-03-01,2022-03-31,Gatorade,Google Ads,Geotargeting campaign,255
+2022-03-01,2022-03-31,Gatorade,Facebook Ads,Traffic campaign,487
+2022-03-01,2022-03-31,Tetley's Brewery,Facebook Ads,Retargeting campaign,1380
+2022-03-01,2022-03-31,Tetley's Brewery,Simplifi,Geofencing campaign,815
+2022-03-01,2022-03-31,Tetley's Brewery,Facebook Ads,Traffic campaign,1280
+2022-03-01,2022-03-31,Tetley's Brewery,Google Ads,Geotargeting campaign,1879
+2022-03-01,2022-03-31,Batemans Brewery,Facebook Ads,Traffic campaign,391
+2022-03-01,2022-03-31,Batemans Brewery,Facebook Ads,Retargeting campaign,146
+2022-03-01,2022-03-31,Jones Soda,Facebook Ads,Retargeting campaign,1604
+2022-03-01,2022-03-31,Jones Soda,Facebook Ads,Traffic campaign,4
+2022-03-01,2022-03-31,Jones Soda,Simplifi,CTV campaign,1183
+2022-03-01,2022-03-31,Jones Soda,Google Ads,Search campaign,717
+2022-03-01,2022-03-31,Jones Soda,Google Ads,Retargeting campaign,1993
+2022-03-01,2022-03-31,Jones Soda,Simplifi,Geofencing campaign,903
+2022-03-01,2022-03-31,Grapette,Simplifi,Geofencing campaign,1450
+2022-03-01,2022-03-31,Grapette,Google Ads,Retargeting campaign,1857
+2022-03-01,2022-03-31,Grapette,Simplifi,CTV campaign,338
+2022-03-01,2022-03-31,Grapette,Google Ads,Geotargeting campaign,1327
+2022-03-01,2022-03-31,Grapette,Google Ads,Search campaign,524
+2022-03-01,2022-03-31,Grapette,Facebook Ads,Retargeting campaign,390
+2022-03-01,2022-03-31,Grapette,Facebook Ads,Traffic campaign,394
+2022-03-01,2022-03-31,Jif (lemon juice),Simplifi,Geofencing campaign,1534
+2022-03-01,2022-03-31,Jif (lemon juice),Facebook Ads,Retargeting campaign,1530
+2022-03-01,2022-03-31,Royal Tru,Simplifi,CTV campaign,1659
+2022-03-01,2022-03-31,Royal Tru,Facebook Ads,Retargeting campaign,1950
+2022-03-01,2022-03-31,Royal Tru,Simplifi,Geofencing campaign,35
+2022-03-01,2022-03-31,Royal Tru,Google Ads,Geotargeting campaign,1240
+2022-03-01,2022-03-31,Royal Tru,Google Ads,Search campaign,877
+2022-03-01,2022-03-31,Royal Tru,Facebook Ads,Traffic campaign,911
+2022-03-01,2022-03-31,Oronamin,Facebook Ads,Traffic campaign,397
+2022-03-01,2022-03-31,Oronamin,Simplifi,CTV campaign,3
+2022-03-01,2022-03-31,Oronamin,Facebook Ads,Retargeting campaign,1010
+2022-03-01,2022-03-31,Belvedere Vodka,Google Ads,Geotargeting campaign,900
+2022-03-01,2022-03-31,Belvedere Vodka,Simplifi,Geofencing campaign,1718
+2022-03-01,2022-03-31,Wodka Gorbatschow,Google Ads,Retargeting campaign,953
+2022-03-01,2022-03-31,Wodka Gorbatschow,Simplifi,Geofencing campaign,673
+2022-03-01,2022-03-31,Grand Old Parr,Facebook Ads,Traffic campaign,1142
+2022-03-01,2022-03-31,Grand Old Parr,Simplifi,Geofencing campaign,1901
+2022-03-01,2022-03-31,Grand Old Parr,Google Ads,Search campaign,1569
+2022-03-01,2022-03-31,Grand Old Parr,Simplifi,CTV campaign,101
+2022-03-01,2022-03-31,Grand Old Parr,Google Ads,Retargeting campaign,1599
+2022-03-01,2022-03-31,Grand Old Parr,Google Ads,Geotargeting campaign,131
+2022-03-01,2022-03-31,Grand Old Parr,Facebook Ads,Retargeting campaign,821
+2022-03-01,2022-03-31,Finlandia (vodka),Google Ads,Search campaign,471
+2022-03-01,2022-03-31,Finlandia (vodka),Facebook Ads,Retargeting campaign,1409
+2022-03-01,2022-03-31,Finlandia (vodka),Simplifi,CTV campaign,100
+2022-03-01,2022-03-31,Finlandia (vodka),Google Ads,Geotargeting campaign,1857
+2022-03-01,2022-03-31,Finlandia (vodka),Google Ads,Retargeting campaign,1346
+2022-03-01,2022-03-31,Finlandia (vodka),Simplifi,Geofencing campaign,1502
+2022-03-01,2022-03-31,Colgate,Simplifi,Geofencing campaign,1630
+2022-03-01,2022-03-31,Colgate,Simplifi,CTV campaign,659
+2022-03-01,2022-03-31,Colgate,Facebook Ads,Traffic campaign,257
+2022-03-01,2022-03-31,Colgate,Google Ads,Search campaign,369
+2022-03-01,2022-03-31,Fanta,Google Ads,Geotargeting campaign,1573
+2022-03-01,2022-03-31,Pizza Hut,Google Ads,Retargeting campaign,1839
+2022-03-01,2022-03-31,Pizza Hut,Facebook Ads,Traffic campaign,614
+2022-03-01,2022-03-31,Pizza Hut,Facebook Ads,Retargeting campaign,934
+2022-03-01,2022-03-31,Head & Shoulders,Google Ads,Search campaign,790
+2022-03-01,2022-03-31,Domino's Pizza,Google Ads,Search campaign,584
+2022-03-01,2022-03-31,Domino's Pizza,Google Ads,Geotargeting campaign,26
+2022-03-01,2022-03-31,Domino's Pizza,Facebook Ads,Traffic campaign,1811
+2022-03-01,2022-03-31,Domino's Pizza,Simplifi,CTV campaign,796
+2022-03-01,2022-03-31,Domino's Pizza,Simplifi,Geofencing campaign,1022
+2022-03-01,2022-03-31,Domino's Pizza,Facebook Ads,Retargeting campaign,626
+2022-03-01,2022-03-31,Domino's Pizza,Google Ads,Retargeting campaign,564
+2022-03-01,2022-03-31,Ben & Jerry's,Simplifi,Geofencing campaign,520
+2022-03-01,2022-03-31,Ben & Jerry's,Facebook Ads,Traffic campaign,1180
+2022-03-01,2022-03-31,Ben & Jerry's,Google Ads,Geotargeting campaign,443
+2022-03-01,2022-03-31,Ben & Jerry's,Facebook Ads,Retargeting campaign,1905
+2022-03-01,2022-03-31,Gatorade,Facebook Ads,Retargeting campaign,1565
+2022-03-01,2022-03-31,Gatorade,Google Ads,Retargeting campaign,169
+2022-03-01,2022-03-31,Gatorade,Facebook Ads,Traffic campaign,744
+2022-03-01,2022-03-31,Gatorade,Simplifi,CTV campaign,716
+2022-03-01,2022-03-31,Gatorade,Google Ads,Search campaign,1465
+2022-03-01,2022-03-31,Gatorade,Simplifi,Geofencing campaign,209
+2022-03-01,2022-03-31,Gatorade,Google Ads,Geotargeting campaign,792
+2022-03-01,2022-03-31,Milo,Google Ads,Geotargeting campaign,1583
+2022-03-01,2022-03-31,Milo,Google Ads,Retargeting campaign,463
+2022-03-01,2022-03-31,Milo,Simplifi,Geofencing campaign,1133
+2022-03-01,2022-03-31,Milo,Simplifi,CTV campaign,1321
+2022-03-01,2022-03-31,Milo,Facebook Ads,Traffic campaign,762
+2022-03-01,2022-03-31,Milo,Facebook Ads,Retargeting campaign,370
+2022-03-01,2022-03-31,Milo,Google Ads,Search campaign,1489
+2022-03-01,2022-03-31,Starbucks,Google Ads,Retargeting campaign,174
+2022-03-01,2022-03-31,Starbucks,Simplifi,CTV campaign,1199
+2022-03-01,2022-03-31,Starbucks,Facebook Ads,Retargeting campaign,1192
+2022-03-01,2022-03-31,Starbucks,Google Ads,Geotargeting campaign,932
+2022-03-01,2022-03-31,Starbucks,Google Ads,Search campaign,678
+2022-03-01,2022-03-31,Starbucks,Simplifi,Geofencing campaign,982
+2022-03-01,2022-03-31,Starbucks,Facebook Ads,Traffic campaign,1181
+2022-03-01,2022-03-31,Audi,Facebook Ads,Retargeting campaign,299
+2022-03-01,2022-03-31,Audi,Google Ads,Retargeting campaign,2135
+2022-03-01,2022-03-31,Audi,Simplifi,Geofencing campaign,114
+2022-03-01,2022-03-31,NIVEA,Simplifi,CTV campaign,757
+2022-03-01,2022-03-31,NIVEA,Google Ads,Geotargeting campaign,1093
+2022-03-01,2022-03-31,NIVEA,Simplifi,Geofencing campaign,1550
+2022-03-01,2022-03-31,NIVEA,Google Ads,Retargeting campaign,1722
+2022-03-01,2022-03-31,NIVEA,Facebook Ads,Traffic campaign,1201
+2022-03-01,2022-03-31,NIVEA,Google Ads,Search campaign,320
+2022-03-01,2022-03-31,NIVEA,Facebook Ads,Retargeting campaign,1587
+2022-03-01,2022-03-31,Snickers,Simplifi,CTV campaign,152
+2022-03-01,2022-03-31,Snickers,Google Ads,Search campaign,1247
+2022-03-01,2022-03-31,Snickers,Google Ads,Retargeting campaign,1001
+2022-03-01,2022-03-31,Snickers,Facebook Ads,Traffic campaign,795
+2022-03-01,2022-03-31,Nescafe,Facebook Ads,Retargeting campaign,1654
+2022-03-01,2022-03-31,Nescafe,Simplifi,CTV campaign,261
+2022-03-01,2022-03-31,Nescafe,Google Ads,Geotargeting campaign,487
+2022-03-01,2022-03-31,Nescafe,Google Ads,Search campaign,565
+2022-03-01,2022-03-31,Nescafe,Google Ads,Retargeting campaign,2102
+2022-03-01,2022-03-31,Nescafe,Facebook Ads,Traffic campaign,18
+2022-03-01,2022-03-31,KFC(Kentucky Fried Chicken),Facebook Ads,Retargeting campaign,135
+2022-03-01,2022-03-31,KFC(Kentucky Fried Chicken),Facebook Ads,Traffic campaign,840
+2022-03-01,2022-03-31,KFC(Kentucky Fried Chicken),Google Ads,Search campaign,927
+2022-03-01,2022-03-31,KFC(Kentucky Fried Chicken),Google Ads,Geotargeting campaign,389
+2022-03-01,2022-03-31,KFC(Kentucky Fried Chicken),Simplifi,Geofencing campaign,814
+2022-03-01,2022-03-31,Levi's Jeans,Facebook Ads,Retargeting campaign,1675
+2022-03-01,2022-03-31,Levi's Jeans,Simplifi,CTV campaign,2040
+2022-03-01,2022-03-31,Levi's Jeans,Simplifi,Geofencing campaign,1864
+2022-03-01,2022-03-31,Levi's Jeans,Facebook Ads,Traffic campaign,1459
+2022-03-01,2022-03-31,Levi's Jeans,Google Ads,Retargeting campaign,776
+2022-03-01,2022-03-31,Lipton,Simplifi,CTV campaign,1457
+2022-03-01,2022-03-31,Lipton,Facebook Ads,Traffic campaign,1849
+2022-03-01,2022-03-31,Lipton,Google Ads,Search campaign,506
+2022-03-01,2022-03-31,Lipton,Google Ads,Retargeting campaign,1474
+2022-03-01,2022-03-31,Lipton,Facebook Ads,Retargeting campaign,468
+2022-03-01,2022-03-31,Lipton,Simplifi,Geofencing campaign,2126
+2022-03-01,2022-03-31,Lipton,Google Ads,Geotargeting campaign,1256
+2022-03-01,2022-03-31,Pampers,Google Ads,Retargeting campaign,1263
+2022-03-01,2022-03-31,Pampers,Google Ads,Search campaign,643
+2022-03-01,2022-03-31,Pampers,Facebook Ads,Traffic campaign,1348
+2022-03-01,2022-03-31,Pampers,Simplifi,Geofencing campaign,1125
+2022-03-01,2022-03-31,Pampers,Facebook Ads,Retargeting campaign,1671
+2022-03-01,2022-03-31,Pampers,Google Ads,Geotargeting campaign,971
+2022-03-01,2022-03-31,Coca-Cola,Facebook Ads,Retargeting campaign,1038
+2022-03-01,2022-03-31,Beam Suntory,Google Ads,Geotargeting campaign,2046
+2022-03-01,2022-03-31,Beam Suntory,Facebook Ads,Traffic campaign,568
+2022-03-01,2022-03-31,Beam Suntory,Google Ads,Search campaign,1699
+2022-03-01,2022-03-31,Beam Suntory,Simplifi,CTV campaign,1815
+2022-03-01,2022-03-31,Beam Suntory,Google Ads,Retargeting campaign,1637
+2022-03-01,2022-03-31,Beam Suntory,Facebook Ads,Retargeting campaign,343
+2022-03-01,2022-03-31,Beam Suntory,Simplifi,Geofencing campaign,945
+2022-03-01,2022-03-31,Live+,Facebook Ads,Traffic campaign,509
+2022-03-01,2022-03-31,Tizer,Simplifi,CTV campaign,1561
+2022-03-01,2022-03-31,Tizer,Facebook Ads,Traffic campaign,375
+2022-03-01,2022-03-31,Tizer,Google Ads,Geotargeting campaign,1321
+2022-03-01,2022-03-31,Tizer,Simplifi,Geofencing campaign,1782
+2022-03-01,2022-03-31,Tizer,Facebook Ads,Retargeting campaign,1961
+2022-03-01,2022-03-31,Tizer,Google Ads,Retargeting campaign,871
+2022-03-01,2022-03-31,Dr. Enuf,Simplifi,Geofencing campaign,2025
+2022-03-01,2022-03-31,Campa Cola,Simplifi,Geofencing campaign,265
+2022-03-01,2022-03-31,Campa Cola,Simplifi,CTV campaign,816
+2022-03-01,2022-03-31,Campa Cola,Google Ads,Retargeting campaign,1774
+2022-03-01,2022-03-31,Campa Cola,Facebook Ads,Retargeting campaign,82
+2022-03-01,2022-03-31,Mezzo Mix,Google Ads,Retargeting campaign,1551
+2022-03-01,2022-03-31,Mezzo Mix,Facebook Ads,Retargeting campaign,1019
+2022-04-01,2022-04-30,Costa Coffee,Facebook Ads,Traffic campaign,1386
+2022-04-01,2022-04-30,Costa Coffee,Simplifi,CTV campaign,1567
+2022-04-01,2022-04-30,Evian,Google Ads,Retargeting campaign,1115
+2022-04-01,2022-04-30,Evian,Facebook Ads,Traffic campaign,923
+2022-04-01,2022-04-30,Evian,Simplifi,CTV campaign,1151
+2022-04-01,2022-04-30,Dasani,Simplifi,CTV campaign,1840
+2022-04-01,2022-04-30,Dasani,Google Ads,Geotargeting campaign,1609
+2022-04-01,2022-04-30,Dasani,Google Ads,Retargeting campaign,1462
+2022-04-01,2022-04-30,Dasani,Google Ads,Search campaign,1624
+2022-04-01,2022-04-30,Dasani,Simplifi,Geofencing campaign,1861
+2022-04-01,2022-04-30,Dasani,Facebook Ads,Retargeting campaign,138
+2022-04-01,2022-04-30,Heineken,Google Ads,Retargeting campaign,1236
+2022-04-01,2022-04-30,Gatorade,Google Ads,Retargeting campaign,326
+2022-04-01,2022-04-30,Gatorade,Simplifi,Geofencing campaign,119
+2022-04-01,2022-04-30,Gatorade,Google Ads,Search campaign,533
+2022-04-01,2022-04-30,Gatorade,Facebook Ads,Retargeting campaign,685
+2022-04-01,2022-04-30,Tetley's Brewery,Simplifi,Geofencing campaign,1135
+2022-04-01,2022-04-30,Tetley's Brewery,Facebook Ads,Retargeting campaign,497
+2022-04-01,2022-04-30,Tetley's Brewery,Facebook Ads,Traffic campaign,612
+2022-04-01,2022-04-30,Tetley's Brewery,Google Ads,Search campaign,1323
+2022-04-01,2022-04-30,Tetley's Brewery,Google Ads,Retargeting campaign,1772
+2022-04-01,2022-04-30,Tetley's Brewery,Google Ads,Geotargeting campaign,1872
+2022-04-01,2022-04-30,Tetley's Brewery,Simplifi,CTV campaign,1270
+2022-04-01,2022-04-30,Batemans Brewery,Facebook Ads,Traffic campaign,266
+2022-04-01,2022-04-30,Jones Soda,Simplifi,Geofencing campaign,249
+2022-04-01,2022-04-30,Jones Soda,Google Ads,Retargeting campaign,893
+2022-04-01,2022-04-30,Jones Soda,Facebook Ads,Traffic campaign,328
+2022-04-01,2022-04-30,Jones Soda,Facebook Ads,Retargeting campaign,1381
+2022-04-01,2022-04-30,Jones Soda,Google Ads,Geotargeting campaign,1378
+2022-04-01,2022-04-30,Jones Soda,Google Ads,Search campaign,542
+2022-04-01,2022-04-30,Grapette,Facebook Ads,Traffic campaign,1573
+2022-04-01,2022-04-30,Grapette,Google Ads,Geotargeting campaign,276
+2022-04-01,2022-04-30,Grapette,Google Ads,Retargeting campaign,911
+2022-04-01,2022-04-30,Grapette,Google Ads,Search campaign,887
+2022-04-01,2022-04-30,Grapette,Simplifi,CTV campaign,92
+2022-04-01,2022-04-30,Jif (lemon juice),Google Ads,Retargeting campaign,2059
+2022-04-01,2022-04-30,Jif (lemon juice),Google Ads,Geotargeting campaign,2193
+2022-04-01,2022-04-30,Oronamin,Simplifi,CTV campaign,330
+2022-04-01,2022-04-30,Oronamin,Google Ads,Retargeting campaign,2165
+2022-04-01,2022-04-30,Oronamin,Facebook Ads,Retargeting campaign,2047
+2022-04-01,2022-04-30,Oronamin,Simplifi,Geofencing campaign,349
+2022-04-01,2022-04-30,Oronamin,Google Ads,Geotargeting campaign,829
+2022-04-01,2022-04-30,Culligan,Facebook Ads,Traffic campaign,1369
+2022-04-01,2022-04-30,Culligan,Simplifi,Geofencing campaign,534
+2022-04-01,2022-04-30,Culligan,Google Ads,Geotargeting campaign,246
+2022-04-01,2022-04-30,Culligan,Facebook Ads,Retargeting campaign,56
+2022-04-01,2022-04-30,Culligan,Google Ads,Search campaign,1482
+2022-04-01,2022-04-30,Culligan,Google Ads,Retargeting campaign,1539
+2022-04-01,2022-04-30,Belvedere Vodka,Facebook Ads,Traffic campaign,1553
+2022-04-01,2022-04-30,Belvedere Vodka,Google Ads,Search campaign,217
+2022-04-01,2022-04-30,Wodka Gorbatschow,Simplifi,Geofencing campaign,481
+2022-04-01,2022-04-30,Wodka Gorbatschow,Simplifi,CTV campaign,728
+2022-04-01,2022-04-30,Wodka Gorbatschow,Facebook Ads,Traffic campaign,242
+2022-04-01,2022-04-30,Wodka Gorbatschow,Google Ads,Search campaign,1606
+2022-04-01,2022-04-30,Wodka Gorbatschow,Google Ads,Retargeting campaign,642
+2022-04-01,2022-04-30,Wodka Gorbatschow,Facebook Ads,Retargeting campaign,825
+2022-04-01,2022-04-30,Wodka Gorbatschow,Google Ads,Geotargeting campaign,818
+2022-04-01,2022-04-30,White Horse (whisky),Simplifi,Geofencing campaign,1220
+2022-04-01,2022-04-30,Grand Old Parr,Google Ads,Retargeting campaign,486
+2022-04-01,2022-04-30,Finlandia (vodka),Google Ads,Search campaign,1320
+2022-04-01,2022-04-30,Finlandia (vodka),Google Ads,Geotargeting campaign,280
+2022-04-01,2022-04-30,Finlandia (vodka),Simplifi,CTV campaign,720
+2022-04-01,2022-04-30,Finlandia (vodka),Google Ads,Retargeting campaign,762
+2022-04-01,2022-04-30,Finlandia (vodka),Facebook Ads,Retargeting campaign,263
+2022-04-01,2022-04-30,Finlandia (vodka),Simplifi,Geofencing campaign,1875
+2022-04-01,2022-04-30,Colgate,Simplifi,Geofencing campaign,51
+2022-04-01,2022-04-30,Fanta,Google Ads,Retargeting campaign,1141
+2022-04-01,2022-04-30,Fanta,Google Ads,Search campaign,851
+2022-04-01,2022-04-30,Fanta,Facebook Ads,Traffic campaign,293
+2022-04-01,2022-04-30,Fanta,Simplifi,Geofencing campaign,1797
+2022-04-01,2022-04-30,Fanta,Facebook Ads,Retargeting campaign,291
+2022-04-01,2022-04-30,Pizza Hut,Simplifi,CTV campaign,2022
+2022-04-01,2022-04-30,Pizza Hut,Google Ads,Search campaign,1515
+2022-04-01,2022-04-30,Pizza Hut,Simplifi,Geofencing campaign,506
+2022-04-01,2022-04-30,Pizza Hut,Google Ads,Geotargeting campaign,549
+2022-04-01,2022-04-30,Pizza Hut,Google Ads,Retargeting campaign,1913
+2022-04-01,2022-04-30,Pizza Hut,Facebook Ads,Traffic campaign,1124
+2022-04-01,2022-04-30,Head & Shoulders,Google Ads,Geotargeting campaign,1848
+2022-04-01,2022-04-30,Head & Shoulders,Facebook Ads,Traffic campaign,1508
+2022-04-01,2022-04-30,Head & Shoulders,Google Ads,Search campaign,1301
+2022-04-01,2022-04-30,Domino's Pizza,Google Ads,Search campaign,706
+2022-04-01,2022-04-30,Domino's Pizza,Google Ads,Geotargeting campaign,1049
+2022-04-01,2022-04-30,Domino's Pizza,Google Ads,Retargeting campaign,345
+2022-04-01,2022-04-30,Domino's Pizza,Facebook Ads,Retargeting campaign,1118
+2022-04-01,2022-04-30,Domino's Pizza,Simplifi,CTV campaign,52
+2022-04-01,2022-04-30,Domino's Pizza,Simplifi,Geofencing campaign,383
+2022-04-01,2022-04-30,Domino's Pizza,Facebook Ads,Traffic campaign,33
+2022-04-01,2022-04-30,Ben & Jerry's,Simplifi,CTV campaign,778
+2022-04-01,2022-04-30,Ben & Jerry's,Facebook Ads,Retargeting campaign,914
+2022-04-01,2022-04-30,Ben & Jerry's,Google Ads,Retargeting campaign,825
+2022-04-01,2022-04-30,Heineken,Simplifi,CTV campaign,9
+2022-04-01,2022-04-30,Heineken,Google Ads,Search campaign,1695
+2022-04-01,2022-04-30,Heineken,Simplifi,Geofencing campaign,1862
+2022-04-01,2022-04-30,Gatorade,Google Ads,Retargeting campaign,1957
+2022-04-01,2022-04-30,Gatorade,Google Ads,Search campaign,209
+2022-04-01,2022-04-30,Milo,Simplifi,Geofencing campaign,102
+2022-04-01,2022-04-30,Milo,Google Ads,Geotargeting campaign,342
+2022-04-01,2022-04-30,Milo,Facebook Ads,Traffic campaign,723
+2022-04-01,2022-04-30,Milo,Facebook Ads,Retargeting campaign,10
+2022-04-01,2022-04-30,Milo,Google Ads,Retargeting campaign,766
+2022-04-01,2022-04-30,Milo,Google Ads,Search campaign,742
+2022-04-01,2022-04-30,Starbucks,Google Ads,Geotargeting campaign,1933
+2022-04-01,2022-04-30,Starbucks,Facebook Ads,Traffic campaign,688
+2022-04-01,2022-04-30,Starbucks,Simplifi,CTV campaign,2023
+2022-04-01,2022-04-30,Starbucks,Simplifi,Geofencing campaign,1688
+2022-04-01,2022-04-30,Starbucks,Facebook Ads,Retargeting campaign,858
+2022-04-01,2022-04-30,Starbucks,Google Ads,Search campaign,134
+2022-04-01,2022-04-30,Audi,Simplifi,Geofencing campaign,303
+2022-04-01,2022-04-30,Audi,Facebook Ads,Traffic campaign,365
+2022-04-01,2022-04-30,Audi,Facebook Ads,Retargeting campaign,130
+2022-04-01,2022-04-30,Audi,Google Ads,Geotargeting campaign,2038
+2022-04-01,2022-04-30,NIVEA,Google Ads,Search campaign,785
+2022-04-01,2022-04-30,NIVEA,Google Ads,Geotargeting campaign,1192
+2022-04-01,2022-04-30,NIVEA,Facebook Ads,Traffic campaign,1250
+2022-04-01,2022-04-30,NIVEA,Facebook Ads,Retargeting campaign,84
+2022-04-01,2022-04-30,NIVEA,Simplifi,CTV campaign,1662
+2022-04-01,2022-04-30,NIVEA,Simplifi,Geofencing campaign,1027
+2022-04-01,2022-04-30,Snickers,Facebook Ads,Traffic campaign,1101
+2022-04-01,2022-04-30,Snickers,Google Ads,Retargeting campaign,344
+2022-04-01,2022-04-30,Nescafe,Facebook Ads,Traffic campaign,677
+2022-04-01,2022-04-30,Nescafe,Google Ads,Geotargeting campaign,1003
+2022-04-01,2022-04-30,Nescafe,Google Ads,Search campaign,1334
+2022-04-01,2022-04-30,Nescafe,Google Ads,Retargeting campaign,1786
+2022-04-01,2022-04-30,Nescafe,Simplifi,Geofencing campaign,116
+2022-04-01,2022-04-30,KFC(Kentucky Fried Chicken),Google Ads,Geotargeting campaign,1118
+2022-04-01,2022-04-30,KFC(Kentucky Fried Chicken),Google Ads,Retargeting campaign,597
+2022-04-01,2022-04-30,Levi's Jeans,Facebook Ads,Traffic campaign,1196
+2022-04-01,2022-04-30,Levi's Jeans,Facebook Ads,Retargeting campaign,437
+2022-04-01,2022-04-30,Lipton,Facebook Ads,Traffic campaign,1286
+2022-04-01,2022-04-30,Lipton,Simplifi,CTV campaign,25
+2022-04-01,2022-04-30,Lipton,Google Ads,Retargeting campaign,1630
+2022-04-01,2022-04-30,Lipton,Facebook Ads,Retargeting campaign,1048
+2022-04-01,2022-04-30,Pampers,Facebook Ads,Retargeting campaign,820
+2022-04-01,2022-04-30,Pampers,Facebook Ads,Traffic campaign,1066
+2022-04-01,2022-04-30,Pampers,Google Ads,Retargeting campaign,1034
+2022-04-01,2022-04-30,Pampers,Google Ads,Geotargeting campaign,1124
+2022-04-01,2022-04-30,Pampers,Google Ads,Search campaign,2245
+2022-04-01,2022-04-30,Coca-Cola,Simplifi,Geofencing campaign,1199
+2022-04-01,2022-04-30,Coca-Cola,Simplifi,CTV campaign,936
+2022-04-01,2022-04-30,Coca-Cola,Facebook Ads,Traffic campaign,2024
+2022-04-01,2022-04-30,Live+,Google Ads,Retargeting campaign,206
+2022-04-01,2022-04-30,Live+,Simplifi,CTV campaign,979
+2022-04-01,2022-04-30,Tango (drink),Simplifi,CTV campaign,547
+2022-04-01,2022-04-30,Tango (drink),Google Ads,Geotargeting campaign,959
+2022-04-01,2022-04-30,Tango (drink),Facebook Ads,Retargeting campaign,474
+2022-04-01,2022-04-30,Tango (drink),Google Ads,Retargeting campaign,1014
+2022-04-01,2022-04-30,Tango (drink),Facebook Ads,Traffic campaign,1056
+2022-04-01,2022-04-30,Tango (drink),Google Ads,Search campaign,657
+2022-04-01,2022-04-30,Tizer,Google Ads,Geotargeting campaign,1762
+2022-04-01,2022-04-30,Tizer,Simplifi,Geofencing campaign,769
+2022-04-01,2022-04-30,Tizer,Facebook Ads,Traffic campaign,1544
+2022-04-01,2022-04-30,Tizer,Simplifi,CTV campaign,768
+2022-04-01,2022-04-30,Tizer,Facebook Ads,Retargeting campaign,567
+2022-04-01,2022-04-30,Tizer,Google Ads,Retargeting campaign,1343
+2022-04-01,2022-04-30,Dr. Enuf,Google Ads,Search campaign,744
+2022-04-01,2022-04-30,Dr. Enuf,Google Ads,Retargeting campaign,1906
+2022-04-01,2022-04-30,Dr. Enuf,Facebook Ads,Retargeting campaign,793
+2022-04-01,2022-04-30,Dr. Enuf,Simplifi,CTV campaign,892
+2022-04-01,2022-04-30,Dr. Enuf,Facebook Ads,Traffic campaign,1870
+2022-04-01,2022-04-30,Dr. Enuf,Google Ads,Geotargeting campaign,1076
+2022-04-01,2022-04-30,Dr. Enuf,Simplifi,Geofencing campaign,1205
+2022-04-01,2022-04-30,ToniCol,Google Ads,Geotargeting campaign,970
+2022-04-01,2022-04-30,ToniCol,Facebook Ads,Retargeting campaign,1394
+2022-04-01,2022-04-30,Campa Cola,Facebook Ads,Retargeting campaign,135
+2022-04-01,2022-04-30,Campa Cola,Facebook Ads,Traffic campaign,1541
+2022-04-01,2022-04-30,Campa Cola,Google Ads,Retargeting campaign,1328
+2022-04-01,2022-04-30,Campa Cola,Simplifi,Geofencing campaign,2109
+2022-04-01,2022-04-30,Campa Cola,Google Ads,Geotargeting campaign,617
+2022-04-01,2022-04-30,Campa Cola,Google Ads,Search campaign,1265
+2022-04-01,2022-04-30,Campa Cola,Simplifi,CTV campaign,780
+2022-04-01,2022-04-30,Mezzo Mix,Facebook Ads,Traffic campaign,1640
+2022-04-01,2022-04-30,Mezzo Mix,Simplifi,Geofencing campaign,1406
+2022-04-01,2022-04-30,Mezzo Mix,Google Ads,Search campaign,1744
+2022-05-01,2022-05-31,Costa Coffee,Simplifi,CTV campaign,512
+2022-05-01,2022-05-31,Costa Coffee,Google Ads,Geotargeting campaign,1475
+2022-05-01,2022-05-31,Dasani,Facebook Ads,Retargeting campaign,313
+2022-05-01,2022-05-31,Dasani,Simplifi,CTV campaign,429
+2022-05-01,2022-05-31,Dasani,Facebook Ads,Traffic campaign,1174
+2022-05-01,2022-05-31,Dasani,Google Ads,Search campaign,621
+2022-05-01,2022-05-31,Dasani,Simplifi,Geofencing campaign,1843
+2022-05-01,2022-05-31,Heineken,Google Ads,Retargeting campaign,1910
+2022-05-01,2022-05-31,Heineken,Facebook Ads,Traffic campaign,89
+2022-05-01,2022-05-31,Heineken,Google Ads,Geotargeting campaign,581
+2022-05-01,2022-05-31,Heineken,Simplifi,Geofencing campaign,505
+2022-05-01,2022-05-31,Gatorade,Simplifi,CTV campaign,2055
+2022-05-01,2022-05-31,Gatorade,Google Ads,Retargeting campaign,1814
+2022-05-01,2022-05-31,Gatorade,Simplifi,Geofencing campaign,1259
+2022-05-01,2022-05-31,Tetley's Brewery,Google Ads,Geotargeting campaign,348
+2022-05-01,2022-05-31,Tetley's Brewery,Google Ads,Retargeting campaign,1769
+2022-05-01,2022-05-31,Tetley's Brewery,Simplifi,Geofencing campaign,444
+2022-05-01,2022-05-31,Tetley's Brewery,Google Ads,Search campaign,818
+2022-05-01,2022-05-31,Tetley's Brewery,Facebook Ads,Traffic campaign,1609
+2022-05-01,2022-05-31,Batemans Brewery,Google Ads,Search campaign,1930
+2022-05-01,2022-05-31,Jones Soda,Google Ads,Geotargeting campaign,361
+2022-05-01,2022-05-31,Grapette,Facebook Ads,Traffic campaign,1065
+2022-05-01,2022-05-31,Grapette,Google Ads,Search campaign,1127
+2022-05-01,2022-05-31,Grapette,Simplifi,CTV campaign,1191
+2022-05-01,2022-05-31,Grapette,Google Ads,Retargeting campaign,330
+2022-05-01,2022-05-31,Jif (lemon juice),Google Ads,Search campaign,730
+2022-05-01,2022-05-31,Jif (lemon juice),Google Ads,Retargeting campaign,725
+2022-05-01,2022-05-31,Royal Tru,Simplifi,CTV campaign,992
+2022-05-01,2022-05-31,Royal Tru,Facebook Ads,Traffic campaign,1684
+2022-05-01,2022-05-31,Royal Tru,Google Ads,Search campaign,1446
+2022-05-01,2022-05-31,Oronamin,Google Ads,Retargeting campaign,2014
+2022-05-01,2022-05-31,Culligan,Simplifi,Geofencing campaign,2093
+2022-05-01,2022-05-31,Belvedere Vodka,Facebook Ads,Retargeting campaign,1389
+2022-05-01,2022-05-31,Wodka Gorbatschow,Google Ads,Geotargeting campaign,1337
+2022-05-01,2022-05-31,Wodka Gorbatschow,Google Ads,Search campaign,1814
+2022-05-01,2022-05-31,Wodka Gorbatschow,Simplifi,CTV campaign,118
+2022-05-01,2022-05-31,Wodka Gorbatschow,Facebook Ads,Traffic campaign,286
+2022-05-01,2022-05-31,Wodka Gorbatschow,Simplifi,Geofencing campaign,1250
+2022-05-01,2022-05-31,White Horse (whisky),Simplifi,Geofencing campaign,1998
+2022-05-01,2022-05-31,White Horse (whisky),Google Ads,Retargeting campaign,1468
+2022-05-01,2022-05-31,White Horse (whisky),Google Ads,Search campaign,103
+2022-05-01,2022-05-31,White Horse (whisky),Facebook Ads,Retargeting campaign,1729
+2022-05-01,2022-05-31,White Horse (whisky),Google Ads,Geotargeting campaign,1020
+2022-05-01,2022-05-31,Grand Old Parr,Facebook Ads,Retargeting campaign,824
+2022-05-01,2022-05-31,Grand Old Parr,Google Ads,Geotargeting campaign,588
+2022-05-01,2022-05-31,Grand Old Parr,Simplifi,CTV campaign,1113
+2022-05-01,2022-05-31,Grand Old Parr,Google Ads,Search campaign,1608
+2022-05-01,2022-05-31,Grand Old Parr,Facebook Ads,Traffic campaign,1324
+2022-05-01,2022-05-31,Grand Old Parr,Google Ads,Retargeting campaign,599
+2022-05-01,2022-05-31,Grand Old Parr,Simplifi,Geofencing campaign,814
+2022-05-01,2022-05-31,Finlandia (vodka),Simplifi,CTV campaign,150
+2022-05-01,2022-05-31,Finlandia (vodka),Facebook Ads,Retargeting campaign,1695
+2022-05-01,2022-05-31,Colgate,Facebook Ads,Traffic campaign,852
+2022-05-01,2022-05-31,Colgate,Facebook Ads,Retargeting campaign,1171
+2022-05-01,2022-05-31,Fanta,Google Ads,Search campaign,1183
+2022-05-01,2022-05-31,Fanta,Google Ads,Geotargeting campaign,876
+2022-05-01,2022-05-31,Fanta,Facebook Ads,Traffic campaign,1681
+2022-05-01,2022-05-31,Pizza Hut,Facebook Ads,Traffic campaign,1293
+2022-05-01,2022-05-31,Domino's Pizza,Google Ads,Search campaign,904
+2022-05-01,2022-05-31,Domino's Pizza,Simplifi,Geofencing campaign,1081
+2022-05-01,2022-05-31,Domino's Pizza,Google Ads,Retargeting campaign,589
+2022-05-01,2022-05-31,Domino's Pizza,Facebook Ads,Traffic campaign,548
+2022-05-01,2022-05-31,Domino's Pizza,Google Ads,Geotargeting campaign,1818
+2022-05-01,2022-05-31,Ben & Jerry's,Google Ads,Retargeting campaign,1589
+2022-05-01,2022-05-31,Ben & Jerry's,Simplifi,Geofencing campaign,449
+2022-05-01,2022-05-31,Ben & Jerry's,Facebook Ads,Traffic campaign,543
+2022-05-01,2022-05-31,Ben & Jerry's,Simplifi,CTV campaign,799
+2022-05-01,2022-05-31,Ben & Jerry's,Google Ads,Geotargeting campaign,351
+2022-05-01,2022-05-31,Heineken,Simplifi,CTV campaign,351
+2022-05-01,2022-05-31,Heineken,Google Ads,Retargeting campaign,912
+2022-05-01,2022-05-31,Heineken,Google Ads,Search campaign,335
+2022-05-01,2022-05-31,Heineken,Simplifi,Geofencing campaign,250
+2022-05-01,2022-05-31,Gatorade,Google Ads,Geotargeting campaign,262
+2022-05-01,2022-05-31,Gatorade,Google Ads,Search campaign,2136
+2022-05-01,2022-05-31,Gatorade,Facebook Ads,Traffic campaign,504
+2022-05-01,2022-05-31,Gatorade,Simplifi,Geofencing campaign,989
+2022-05-01,2022-05-31,Gatorade,Google Ads,Retargeting campaign,346
+2022-05-01,2022-05-31,Gatorade,Simplifi,CTV campaign,1022
+2022-05-01,2022-05-31,Milo,Facebook Ads,Retargeting campaign,370
+2022-05-01,2022-05-31,Starbucks,Simplifi,Geofencing campaign,438
+2022-05-01,2022-05-31,Starbucks,Google Ads,Search campaign,1267
+2022-05-01,2022-05-31,Audi,Google Ads,Retargeting campaign,137
+2022-05-01,2022-05-31,Audi,Google Ads,Geotargeting campaign,882
+2022-05-01,2022-05-31,Audi,Google Ads,Search campaign,1868
+2022-05-01,2022-05-31,Audi,Facebook Ads,Traffic campaign,598
+2022-05-01,2022-05-31,NIVEA,Simplifi,CTV campaign,35
+2022-05-01,2022-05-31,NIVEA,Simplifi,Geofencing campaign,1342
+2022-05-01,2022-05-31,NIVEA,Google Ads,Geotargeting campaign,1608
+2022-05-01,2022-05-31,Snickers,Google Ads,Search campaign,1130
+2022-05-01,2022-05-31,Snickers,Simplifi,CTV campaign,664
+2022-05-01,2022-05-31,Snickers,Google Ads,Retargeting campaign,1900
+2022-05-01,2022-05-31,Snickers,Facebook Ads,Traffic campaign,1457
+2022-05-01,2022-05-31,Snickers,Simplifi,Geofencing campaign,945
+2022-05-01,2022-05-31,Nescafe,Google Ads,Retargeting campaign,185
+2022-05-01,2022-05-31,Levi's Jeans,Facebook Ads,Retargeting campaign,915
+2022-05-01,2022-05-31,Levi's Jeans,Simplifi,Geofencing campaign,1478
+2022-05-01,2022-05-31,Levi's Jeans,Simplifi,CTV campaign,1002
+2022-05-01,2022-05-31,Levi's Jeans,Google Ads,Retargeting campaign,106
+2022-05-01,2022-05-31,Levi's Jeans,Google Ads,Search campaign,343
+2022-05-01,2022-05-31,Levi's Jeans,Google Ads,Geotargeting campaign,157
+2022-05-01,2022-05-31,Lipton,Google Ads,Search campaign,775
+2022-05-01,2022-05-31,Lipton,Facebook Ads,Retargeting campaign,2075
+2022-05-01,2022-05-31,Lipton,Google Ads,Geotargeting campaign,708
+2022-05-01,2022-05-31,Lipton,Simplifi,CTV campaign,488
+2022-05-01,2022-05-31,Pampers,Facebook Ads,Traffic campaign,2038
+2022-05-01,2022-05-31,Pampers,Simplifi,Geofencing campaign,532
+2022-05-01,2022-05-31,Pampers,Facebook Ads,Retargeting campaign,952
+2022-05-01,2022-05-31,Pampers,Simplifi,CTV campaign,960
+2022-05-01,2022-05-31,Pampers,Google Ads,Search campaign,736
+2022-05-01,2022-05-31,Pampers,Google Ads,Geotargeting campaign,957
+2022-05-01,2022-05-31,Coca-Cola,Google Ads,Geotargeting campaign,387
+2022-05-01,2022-05-31,Coca-Cola,Facebook Ads,Retargeting campaign,2027
+2022-05-01,2022-05-31,Coca-Cola,Facebook Ads,Traffic campaign,1103
+2022-05-01,2022-05-31,Beam Suntory,Google Ads,Retargeting campaign,604
+2022-05-01,2022-05-31,Beam Suntory,Facebook Ads,Retargeting campaign,294
+2022-05-01,2022-05-31,Beam Suntory,Google Ads,Geotargeting campaign,1303
+2022-05-01,2022-05-31,Beam Suntory,Simplifi,CTV campaign,863
+2022-05-01,2022-05-31,Beam Suntory,Simplifi,Geofencing campaign,835
+2022-05-01,2022-05-31,Beam Suntory,Google Ads,Search campaign,87
+2022-05-01,2022-05-31,Beam Suntory,Facebook Ads,Traffic campaign,457
+2022-05-01,2022-05-31,Live+,Simplifi,Geofencing campaign,1258
+2022-05-01,2022-05-31,Live+,Google Ads,Search campaign,1014
+2022-05-01,2022-05-31,Tango (drink),Google Ads,Geotargeting campaign,768
+2022-05-01,2022-05-31,Tango (drink),Google Ads,Search campaign,741
+2022-05-01,2022-05-31,Tizer,Google Ads,Geotargeting campaign,1329
+2022-05-01,2022-05-31,Tizer,Google Ads,Retargeting campaign,566
+2022-05-01,2022-05-31,Tizer,Facebook Ads,Retargeting campaign,1073
+2022-05-01,2022-05-31,Dr. Enuf,Facebook Ads,Traffic campaign,588
+2022-05-01,2022-05-31,Dr. Enuf,Google Ads,Geotargeting campaign,1824
+2022-05-01,2022-05-31,Dr. Enuf,Simplifi,Geofencing campaign,1849
+2022-05-01,2022-05-31,Dr. Enuf,Simplifi,CTV campaign,256
+2022-05-01,2022-05-31,Campa Cola,Google Ads,Search campaign,738
+2022-05-01,2022-05-31,Campa Cola,Facebook Ads,Retargeting campaign,142
+2022-05-01,2022-05-31,Campa Cola,Google Ads,Geotargeting campaign,1283
+2022-05-01,2022-05-31,Campa Cola,Simplifi,Geofencing campaign,681
+2022-05-01,2022-05-31,Mezzo Mix,Google Ads,Retargeting campaign,1870
+2022-05-01,2022-05-31,Mezzo Mix,Simplifi,CTV campaign,1473
+2022-05-01,2022-05-31,Mezzo Mix,Simplifi,Geofencing campaign,26
