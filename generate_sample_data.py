@@ -99,7 +99,7 @@ def add_spaces(cos: typing.List[str], proportion: float):
 
 def generate_line_item(company, account:Account, tactic:Tactic, spend_seed, date_within_start:datetime.date, date_within_end:datetime.date):
 
-    return {'company': company,
+    return {'company': company + ' ' if random.random() < 0.05 else company,
             'gl':account.gl,
             'description':tactic.li_description,
             'date':str(date_within_start + datetime.timedelta(random.randint(0,(date_within_end-date_within_start).days))),
