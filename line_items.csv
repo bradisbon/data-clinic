@@ -1,268 +1,262 @@
 date,company,gl,description,amount
-2022-03-29,Evian,4305,Monthly Retargeting Retainer,1364
-2022-03-19,Evian,4315,Monthly Traffic Retainer,878
-2022-03-26,Dasani,4315,Monthly Retargeting Retainer,1446
-2022-03-25,Heineken,4315,Monthly Retargeting Retainer,779
-2022-03-19,Heineken,4315,Monthly Traffic Retainer,397
-2022-03-18,Heineken,4305,Monthly Retargeting Retainer,1889
-2022-03-21,Heineken,4305,Monthly Search Retainer,149
-2022-03-02,Tetley's Brewery,4315,Monthly Retargeting Retainer,294
-2022-03-03,Tetley's Brewery,4315,Monthly Traffic Retainer,1005
-2022-03-15,Batemans Brewery,4315,Monthly Retargeting Retainer,1436
-2022-03-25,Jones Soda,4315,Monthly Retargeting Retainer,360
-2022-03-20,Jones Soda,4305,Monthly Retargeting Retainer,771
-2022-03-31,Jones Soda,4315,Monthly Traffic Retainer,1097
-2022-03-30,Jones Soda,4305,Monthly Search Retainer,1750
-2022-03-28,Grapette,4305,Monthly Retargeting Retainer,1199
-2022-03-22,Grapette,4305,Monthly Search Retainer,1087
-2022-03-09,Jif (lemon juice),4305,Monthly Search Retainer,1033
-2022-03-21,Royal Tru,4305,Monthly Search Retainer,637
-2022-03-12,Royal Tru,4315,Monthly Traffic Retainer,2000
-2022-03-22,Royal Tru,4305,Monthly Retargeting Retainer,895
-2022-03-31,Royal Tru,4315,Monthly Retargeting Retainer,494
-2022-03-17,Oronamin,4315,Monthly Traffic Retainer,358
-2022-03-22,Culligan,4305,Monthly Search Retainer,273
-2022-03-14,Culligan,4315,Monthly Retargeting Retainer,541
-2022-03-29,Culligan,4315,Monthly Traffic Retainer,1968
-2022-03-18,Belvedere Vodka,4305,Monthly Retargeting Retainer,290
-2022-03-20,Belvedere Vodka,4315,Monthly Retargeting Retainer,440
-2022-03-01,Wodka Gorbatschow,4305,Monthly Search Retainer,1816
-2022-03-30,White Horse (whisky) ,4305,Monthly Retargeting Retainer,1725
-2022-03-03,White Horse (whisky),4305,Monthly Search Retainer,1631
-2022-03-03,White Horse (whisky),4315,Monthly Traffic Retainer,34
-2022-03-01,White Horse (whisky),4315,Monthly Retargeting Retainer,2223
-2022-03-23,Grand Old Parr,4305,Monthly Retargeting Retainer,483
-2022-03-04,Grand Old Parr,4305,Monthly Search Retainer,38
-2022-03-19,Grand Old Parr,4315,Monthly Retargeting Retainer,2025
-2022-03-09,Finlandia (vodka),4315,Monthly Traffic Retainer,2010
-2022-03-26,Finlandia (vodka),4305,Monthly Retargeting Retainer,1059
-2022-03-30,Finlandia (vodka),4315,Monthly Retargeting Retainer,565
-2022-03-27,Finlandia (vodka),4305,Monthly Search Retainer,1200
-2022-03-06,Fanta,4305,Monthly Search Retainer,197
-2022-03-19,Pizza Hut,4315,Monthly Retargeting Retainer,1271
-2022-03-15,Pizza Hut,4305,Monthly Retargeting Retainer,968
-2022-03-24,Head & Shoulders,4315,Monthly Traffic Retainer,1267
-2022-03-09,Domino's Pizza,4315,Monthly Retargeting Retainer,1005
-2022-03-19,Domino's Pizza,4315,Monthly Traffic Retainer,765
-2022-03-27,Ben & Jerry's,4315,Monthly Traffic Retainer,996
-2022-03-12,Heineken,4305,Monthly Retargeting Retainer,895
-2022-03-24,Heineken,4305,Monthly Search Retainer,1204
-2022-03-24,Heineken,4315,Monthly Retargeting Retainer,383
-2022-03-31,Heineken,4315,Monthly Traffic Retainer,679
-2022-03-28,Gatorade ,4315,Monthly Retargeting Retainer,1144
-2022-03-02,Gatorade,4305,Monthly Retargeting Retainer,517
-2022-03-03,Gatorade,4305,Monthly Search Retainer,1381
-2022-03-09,Snickers,4305,Monthly Retargeting Retainer,1445
-2022-03-10,Snickers,4315,Monthly Traffic Retainer,1867
-2022-03-22,Nescafe,4315,Monthly Retargeting Retainer,481
-2022-03-04,Levi's Jeans,4305,Monthly Retargeting Retainer,1337
-2022-03-05,Levi's Jeans,4315,Monthly Retargeting Retainer,597
-2022-03-29,Levi's Jeans,4315,Monthly Traffic Retainer,411
-2022-03-11,Levi's Jeans,4305,Monthly Search Retainer,802
-2022-03-27,Lipton,4305,Monthly Search Retainer,1776
-2022-03-06,Pampers,4315,Monthly Retargeting Retainer,1829
-2022-03-31,Pampers,4305,Monthly Search Retainer,492
-2022-03-23,Beam Suntory,4305,Monthly Search Retainer,745
-2022-03-11,Beam Suntory,4305,Monthly Retargeting Retainer,1091
-2022-03-25,Beam Suntory,4315,Monthly Traffic Retainer,205
-2022-03-27,Live+,4305,Monthly Search Retainer,831
-2022-03-05,Live+,4305,Monthly Retargeting Retainer,1357
-2022-03-14,Live+,4315,Monthly Retargeting Retainer,595
-2022-03-06,Live+,4315,Monthly Traffic Retainer,1635
-2022-03-19,Tango (drink),4315,Monthly Retargeting Retainer,1636
-2022-03-30,Tizer,4305,Monthly Retargeting Retainer,66
-2022-03-24,Tizer,4315,Monthly Retargeting Retainer,1164
-2022-03-06,Dr. Enuf,4305,Monthly Search Retainer,944
-2022-03-25,Dr. Enuf,4315,Monthly Retargeting Retainer,525
-2022-03-28,Dr. Enuf,4315,Monthly Traffic Retainer,1063
-2022-03-16,Dr. Enuf,4305,Monthly Retargeting Retainer,1027
-2022-03-09,ToniCol,4305,Monthly Search Retainer,498
-2022-03-22,ToniCol,4305,Monthly Retargeting Retainer,999
-2022-03-05,ToniCol,4315,Monthly Traffic Retainer,129
-2022-03-19,ToniCol,4315,Monthly Retargeting Retainer,1864
-2022-03-07,Campa Cola,4315,Monthly Traffic Retainer,1695
-2022-03-07,Campa Cola,4305,Monthly Search Retainer,1106
-2022-03-13,Campa Cola,4315,Monthly Retargeting Retainer,1281
-2022-03-24,Mezzo Mix,4305,Monthly Search Retainer,54
-2022-03-23,Mezzo Mix,4315,Monthly Retargeting Retainer,865
-2022-03-10,Mezzo Mix,4315,Monthly Traffic Retainer,1808
-2022-04-13,Gatorade,4315,Monthly Traffic Retainer,24
-2022-04-06,Tetley's Brewery,4305,Monthly Search Retainer,864
-2022-04-13,Tetley's Brewery,4305,Monthly Retargeting Retainer,228
-2022-04-23,Tetley's Brewery,4315,Monthly Retargeting Retainer,638
-2022-04-15,Tetley's Brewery,4315,Monthly Traffic Retainer,1604
-2022-04-08,Jones Soda,4305,Monthly Retargeting Retainer,1633
-2022-04-25,Grapette,4315,Monthly Retargeting Retainer,888
-2022-04-19,Grapette,4305,Monthly Search Retainer,1805
-2022-04-14,Jif (lemon juice),4305,Monthly Search Retainer,29
-2022-04-27,Royal Tru,4315,Monthly Traffic Retainer,304
-2022-04-01,Oronamin ,4305,Monthly Retargeting Retainer,33
-2022-04-10,Oronamin,4305,Monthly Search Retainer,1322
-2022-04-03,Oronamin ,4315,Monthly Traffic Retainer,109
-2022-04-06,Culligan,4305,Monthly Search Retainer,1788
-2022-04-09,Culligan,4315,Monthly Traffic Retainer,821
-2022-04-14,Culligan,4315,Monthly Retargeting Retainer,851
-2022-04-03,Belvedere Vodka,4305,Monthly Search Retainer,589
-2022-04-30,Belvedere Vodka,4315,Monthly Traffic Retainer,136
-2022-04-16,Belvedere Vodka,4315,Monthly Retargeting Retainer,1146
-2022-04-09,Wodka Gorbatschow,4315,Monthly Retargeting Retainer,1039
-2022-04-08,Wodka Gorbatschow,4315,Monthly Traffic Retainer,553
-2022-04-15,Wodka Gorbatschow,4305,Monthly Retargeting Retainer,1094
-2022-04-02,Wodka Gorbatschow,4305,Monthly Search Retainer,1470
-2022-04-30,White Horse (whisky),4305,Monthly Retargeting Retainer,1130
-2022-04-27,White Horse (whisky),4315,Monthly Retargeting Retainer,1126
-2022-04-12,White Horse (whisky),4315,Monthly Traffic Retainer,266
-2022-04-29,White Horse (whisky),4305,Monthly Search Retainer,1881
-2022-04-18,Grand Old Parr,4305,Monthly Search Retainer,877
-2022-04-16,Grand Old Parr,4305,Monthly Retargeting Retainer,152
-2022-04-19,Finlandia (vodka),4315,Monthly Retargeting Retainer,1679
-2022-04-07,Finlandia (vodka) ,4305,Monthly Search Retainer,424
-2022-04-07,Finlandia (vodka),4305,Monthly Retargeting Retainer,936
-2022-04-21,Colgate,4315,Monthly Traffic Retainer,792
-2022-04-26,Colgate,4305,Monthly Search Retainer,1945
-2022-04-28,Fanta,4305,Monthly Retargeting Retainer,1836
-2022-04-08,Pizza Hut ,4315,Monthly Traffic Retainer,731
-2022-04-17,Pizza Hut,4305,Monthly Search Retainer,1658
-2022-04-24,Pizza Hut,4305,Monthly Retargeting Retainer,1758
-2022-04-01,Head & Shoulders,4315,Monthly Retargeting Retainer,1478
-2022-04-12,Head & Shoulders,4315,Monthly Traffic Retainer,666
-2022-04-04,Head & Shoulders,4305,Monthly Retargeting Retainer,927
-2022-04-02,Head & Shoulders,4305,Monthly Search Retainer,2149
-2022-04-16,Domino's Pizza,4315,Monthly Retargeting Retainer,1029
-2022-04-13,Domino's Pizza,4315,Monthly Traffic Retainer,726
-2022-04-17,Domino's Pizza,4305,Monthly Retargeting Retainer,322
-2022-04-17,Heineken,4305,Monthly Search Retainer,350
-2022-04-16,Heineken,4315,Monthly Traffic Retainer,1844
-2022-04-06,Gatorade,4305,Monthly Search Retainer,1476
-2022-04-29,Gatorade,4315,Monthly Retargeting Retainer,627
-2022-04-24,Gatorade,4315,Monthly Traffic Retainer,749
-2022-04-13,Milo,4315,Monthly Traffic Retainer,15
-2022-04-05,Milo,4305,Monthly Retargeting Retainer,951
-2022-04-16,Milo,4315,Monthly Retargeting Retainer,1781
-2022-04-05,Milo,4305,Monthly Search Retainer,1076
-2022-04-05,Starbucks,4305,Monthly Search Retainer,395
-2022-04-07,Starbucks,4315,Monthly Traffic Retainer,81
-2022-04-24,Starbucks,4305,Monthly Retargeting Retainer,173
-2022-04-06,Starbucks,4315,Monthly Retargeting Retainer,527
-2022-04-21,Audi,4305,Monthly Retargeting Retainer,1648
-2022-04-01,Audi,4315,Monthly Traffic Retainer,1091
-2022-04-28,NIVEA,4315,Monthly Traffic Retainer,1749
-2022-04-12,NIVEA,4315,Monthly Retargeting Retainer,1205
-2022-04-03,NIVEA,4305,Monthly Retargeting Retainer,807
-2022-04-03,NIVEA,4305,Monthly Search Retainer,1709
-2022-04-09,Snickers,4315,Monthly Retargeting Retainer,1738
-2022-04-03,Snickers,4305,Monthly Retargeting Retainer,2081
-2022-04-18,KFC(Kentucky Fried Chicken),4315,Monthly Traffic Retainer,64
-2022-04-07,KFC(Kentucky Fried Chicken),4305,Monthly Retargeting Retainer,1496
-2022-04-18,KFC(Kentucky Fried Chicken),4305,Monthly Search Retainer,1687
-2022-04-05,KFC(Kentucky Fried Chicken),4315,Monthly Retargeting Retainer,1546
-2022-04-25,Levi's Jeans,4305,Monthly Retargeting Retainer,1074
-2022-04-11,Levi's Jeans,4305,Monthly Search Retainer,10
-2022-04-17,Levi's Jeans,4315,Monthly Retargeting Retainer,1141
-2022-04-22,Levi's Jeans,4315,Monthly Traffic Retainer,647
-2022-04-29,Lipton,4315,Monthly Traffic Retainer,624
-2022-04-29,Lipton,4305,Monthly Retargeting Retainer,1953
-2022-04-16,Pampers,4305,Monthly Retargeting Retainer,105
-2022-04-23,Coca-Cola,4315,Monthly Retargeting Retainer,256
-2022-04-04,Beam Suntory,4305,Monthly Retargeting Retainer,34
-2022-04-30,Tango (drink),4315,Monthly Retargeting Retainer,360
-2022-04-30,Tizer,4305,Monthly Search Retainer,15
-2022-04-22,Tizer,4305,Monthly Retargeting Retainer,284
-2022-04-15,Tizer,4315,Monthly Retargeting Retainer,433
-2022-04-01,Tizer,4315,Monthly Traffic Retainer,1857
-2022-04-05,Dr. Enuf,4305,Monthly Search Retainer,1483
-2022-04-09,Dr. Enuf,4315,Monthly Retargeting Retainer,1572
-2022-04-15,Dr. Enuf,4305,Monthly Retargeting Retainer,1134
-2022-04-01,Dr. Enuf,4315,Monthly Traffic Retainer,1103
-2022-04-05,ToniCol,4305,Monthly Retargeting Retainer,2112
-2022-04-24,ToniCol,4315,Monthly Retargeting Retainer,320
-2022-04-29,ToniCol,4315,Monthly Traffic Retainer,1148
-2022-04-19,Campa Cola,4315,Monthly Traffic Retainer,1215
-2022-04-04,Campa Cola,4305,Monthly Retargeting Retainer,827
-2022-04-24,Campa Cola,4315,Monthly Retargeting Retainer,66
-2022-04-12,Mezzo Mix,4305,Monthly Search Retainer,462
-2022-04-30,Mezzo Mix,4315,Monthly Traffic Retainer,693
-2022-05-16,Costa Coffee,4305,Monthly Search Retainer,1441
-2022-05-06,Costa Coffee,4315,Monthly Traffic Retainer,725
-2022-05-06,Evian,4305,Monthly Retargeting Retainer,1502
-2022-05-01,Evian,4315,Monthly Traffic Retainer,65
-2022-05-11,Dasani,4305,Monthly Retargeting Retainer,1517
-2022-05-17,Dasani,4315,Monthly Traffic Retainer,1706
-2022-05-22,Dasani,4315,Monthly Retargeting Retainer,1123
-2022-05-17,Gatorade,4305,Monthly Retargeting Retainer,1149
-2022-05-06,Gatorade,4315,Monthly Retargeting Retainer,144
-2022-05-16,Gatorade,4305,Monthly Search Retainer,2190
-2022-05-01,Tetley's Brewery,4305,Monthly Search Retainer,1377
-2022-05-28,Tetley's Brewery,4305,Monthly Retargeting Retainer,575
-2022-05-17,Tetley's Brewery,4315,Monthly Retargeting Retainer,151
-2022-05-11,Tetley's Brewery,4315,Monthly Traffic Retainer,324
-2022-05-04,Batemans Brewery,4305,Monthly Search Retainer,594
-2022-05-20,Batemans Brewery,4315,Monthly Traffic Retainer,778
-2022-05-15,Jones Soda,4315,Monthly Traffic Retainer,1367
-2022-05-16,Grapette,4305,Monthly Retargeting Retainer,963
-2022-05-13,Grapette,4305,Monthly Search Retainer,1481
-2022-05-10,Jif (lemon juice),4305,Monthly Retargeting Retainer,372
-2022-05-23,Jif (lemon juice),4315,Monthly Traffic Retainer,1351
-2022-05-13,Royal Tru ,4315,Monthly Retargeting Retainer,1523
-2022-05-31,Royal Tru,4305,Monthly Search Retainer,229
-2022-05-13,Oronamin,4305,Monthly Retargeting Retainer,697
-2022-05-26,Oronamin,4315,Monthly Retargeting Retainer,2112
-2022-05-07,Oronamin,4315,Monthly Traffic Retainer,938
-2022-05-13,Oronamin,4305,Monthly Search Retainer,1058
-2022-05-27,Belvedere Vodka,4305,Monthly Retargeting Retainer,81
-2022-05-27,Belvedere Vodka,4315,Monthly Retargeting Retainer,822
-2022-05-14,Belvedere Vodka,4315,Monthly Traffic Retainer,1149
-2022-05-05,Belvedere Vodka ,4305,Monthly Search Retainer,1702
-2022-05-19,Wodka Gorbatschow,4305,Monthly Search Retainer,1671
-2022-05-07,Wodka Gorbatschow,4315,Monthly Retargeting Retainer,264
-2022-05-12,White Horse (whisky),4315,Monthly Retargeting Retainer,916
-2022-05-13,White Horse (whisky),4305,Monthly Retargeting Retainer,1702
-2022-05-21,White Horse (whisky),4315,Monthly Traffic Retainer,1261
-2022-05-16,Fanta,4315,Monthly Retargeting Retainer,1327
-2022-05-16,Fanta,4305,Monthly Retargeting Retainer,1778
-2022-05-01,Fanta,4315,Monthly Traffic Retainer,1240
-2022-05-10,Fanta ,4305,Monthly Search Retainer,1082
-2022-05-10,Head & Shoulders,4305,Monthly Retargeting Retainer,1583
-2022-05-23,Head & Shoulders ,4315,Monthly Retargeting Retainer,216
-2022-05-07,Domino's Pizza,4305,Monthly Retargeting Retainer,229
-2022-05-03,Heineken,4315,Monthly Retargeting Retainer,480
-2022-05-16,Heineken,4315,Monthly Traffic Retainer,713
-2022-05-21,Milo,4305,Monthly Retargeting Retainer,1161
-2022-05-17,Milo,4315,Monthly Retargeting Retainer,326
-2022-05-19,Milo,4315,Monthly Traffic Retainer,549
-2022-05-09,Milo,4305,Monthly Search Retainer,866
-2022-05-20,Starbucks,4315,Monthly Retargeting Retainer,243
-2022-05-10,NIVEA,4315,Monthly Retargeting Retainer,1625
-2022-05-23,NIVEA,4305,Monthly Retargeting Retainer,859
-2022-05-14,NIVEA,4305,Monthly Search Retainer,667
-2022-05-01,Snickers ,4305,Monthly Search Retainer,1445
-2022-05-18,Nescafe,4315,Monthly Traffic Retainer,769
-2022-05-20,KFC(Kentucky Fried Chicken),4315,Monthly Traffic Retainer,2122
-2022-05-08,Levi's Jeans ,4315,Monthly Traffic Retainer,1227
-2022-05-20,Levi's Jeans,4305,Monthly Search Retainer,1860
-2022-05-06,Levi's Jeans,4315,Monthly Retargeting Retainer,1621
-2022-05-28,Lipton,4305,Monthly Retargeting Retainer,1762
-2022-05-09,Lipton,4315,Monthly Traffic Retainer,233
-2022-05-18,Lipton,4315,Monthly Retargeting Retainer,1388
-2022-05-17,Pampers,4315,Monthly Traffic Retainer,2155
-2022-05-24,Pampers,4315,Monthly Retargeting Retainer,255
-2022-05-10,Coca-Cola,4315,Monthly Traffic Retainer,1813
-2022-05-31,Live+,4305,Monthly Search Retainer,525
-2022-05-23,Tango (drink),4305,Monthly Search Retainer,460
-2022-05-26,Tango (drink),4315,Monthly Traffic Retainer,1890
-2022-05-10,Tango (drink),4315,Monthly Retargeting Retainer,1232
-2022-05-22,Tango (drink) ,4305,Monthly Retargeting Retainer,644
-2022-05-10,Tizer,4305,Monthly Search Retainer,1217
-2022-05-05,Tizer,4315,Monthly Traffic Retainer,1724
-2022-05-22,Tizer,4305,Monthly Retargeting Retainer,1363
-2022-05-01,Tizer,4315,Monthly Retargeting Retainer,349
-2022-05-17,Dr. Enuf,4315,Monthly Retargeting Retainer,325
-2022-05-18,Dr. Enuf,4305,Monthly Retargeting Retainer,574
-2022-05-28,Dr. Enuf,4315,Monthly Traffic Retainer,80
-2022-05-11,Dr. Enuf ,4305,Monthly Search Retainer,267
-2022-05-29,ToniCol,4305,Monthly Search Retainer,1915
-2022-05-11,ToniCol,4305,Monthly Retargeting Retainer,1585
-2022-05-11,Campa Cola,4305,Monthly Search Retainer,517
-2022-05-15,Campa Cola,4315,Monthly Retargeting Retainer,1056
-2022-05-14,Campa Cola,4305,Monthly Retargeting Retainer,651
-2022-05-06,Campa Cola,4315,Monthly Traffic Retainer,244
+2022-03-10,Evian ,4305,Monthly Retargeting Retainer,1740
+2022-03-18,Evian,4315,Monthly Traffic Retainer,2044
+2022-03-30,Evian,4315,Monthly Retargeting Retainer,1495
+2022-03-20,Dasani,4305,Monthly Search Retainer,1895
+2022-03-10,Dasani,4315,Monthly Traffic Retainer,1370
+2022-03-13,Heineken,4315,Monthly Traffic Retainer,12
+2022-03-12,Gatorade,4315,Monthly Traffic Retainer,621
+2022-03-05,Gatorade,4305,Monthly Search Retainer,1866
+2022-03-14,Gatorade,4315,Monthly Retargeting Retainer,542
+2022-03-20,Gatorade,4305,Monthly Retargeting Retainer,1727
+2022-03-31,Tetley's Brewery,4305,Monthly Search Retainer,180
+2022-03-20,Jones Soda,4315,Monthly Traffic Retainer,1213
+2022-03-03,Grapette,4305,Monthly Search Retainer,553
+2022-03-09,Grapette,4305,Monthly Retargeting Retainer,1015
+2022-03-12,Grapette,4315,Monthly Retargeting Retainer,15
+2022-03-10,Grapette,4315,Monthly Traffic Retainer,179
+2022-03-13,Jif (lemon juice),4305,Monthly Search Retainer,1069
+2022-03-29,Jif (lemon juice),4315,Monthly Retargeting Retainer,705
+2022-03-07,Jif (lemon juice),4315,Monthly Traffic Retainer,205
+2022-03-29,Jif (lemon juice),4305,Monthly Retargeting Retainer,308
+2022-03-02,Royal Tru,4305,Monthly Retargeting Retainer,58
+2022-03-02,Royal Tru,4315,Monthly Traffic Retainer,1214
+2022-03-14,Oronamin,4315,Monthly Retargeting Retainer,1307
+2022-03-09,Oronamin,4305,Monthly Retargeting Retainer,723
+2022-03-23,Oronamin,4305,Monthly Search Retainer,555
+2022-03-24,Oronamin,4315,Monthly Traffic Retainer,602
+2022-03-25,Culligan,4315,Monthly Traffic Retainer,1264
+2022-03-27,Culligan,4315,Monthly Retargeting Retainer,2118
+2022-03-19,Culligan,4305,Monthly Retargeting Retainer,1615
+2022-03-05,Culligan,4305,Monthly Search Retainer,393
+2022-03-15,Fanta,4315,Monthly Traffic Retainer,674
+2022-03-22,Fanta,4315,Monthly Retargeting Retainer,968
+2022-03-18,Fanta,4305,Monthly Retargeting Retainer,335
+2022-03-18,Fanta,4305,Monthly Search Retainer,136
+2022-03-03,Pizza Hut,4305,Monthly Search Retainer,258
+2022-03-09,Pizza Hut ,4305,Monthly Retargeting Retainer,1808
+2022-03-03,Pizza Hut,4315,Monthly Traffic Retainer,564
+2022-03-27,Pizza Hut,4315,Monthly Retargeting Retainer,13
+2022-03-03,Head & Shoulders,4315,Monthly Retargeting Retainer,1194
+2022-03-24,Head & Shoulders,4305,Monthly Retargeting Retainer,352
+2022-03-17,Head & Shoulders,4315,Monthly Traffic Retainer,132
+2022-03-24,Head & Shoulders,4305,Monthly Search Retainer,747
+2022-03-25,Domino's Pizza,4315,Monthly Retargeting Retainer,2045
+2022-03-31,Domino's Pizza ,4315,Monthly Traffic Retainer,1981
+2022-03-02,Ben & Jerry's,4305,Monthly Retargeting Retainer,772
+2022-03-15,Ben & Jerry's,4305,Monthly Search Retainer,1571
+2022-03-27,Heineken,4305,Monthly Retargeting Retainer,1762
+2022-03-16,Heineken,4315,Monthly Traffic Retainer,1829
+2022-03-26,Milo ,4315,Monthly Retargeting Retainer,835
+2022-03-15,Milo,4305,Monthly Search Retainer,1076
+2022-03-13,Milo,4315,Monthly Traffic Retainer,113
+2022-03-14,Starbucks,4305,Monthly Search Retainer,1292
+2022-03-11,Starbucks,4315,Monthly Retargeting Retainer,1554
+2022-03-16,Audi,4315,Monthly Retargeting Retainer,486
+2022-03-25,Audi,4305,Monthly Retargeting Retainer,1079
+2022-03-06,Audi,4315,Monthly Traffic Retainer,1670
+2022-03-05,Snickers,4305,Monthly Retargeting Retainer,118
+2022-03-22,Snickers,4315,Monthly Traffic Retainer,121
+2022-03-05,Snickers ,4305,Monthly Search Retainer,334
+2022-03-17,Nescafe ,4305,Monthly Retargeting Retainer,1524
+2022-03-02,Nescafe,4305,Monthly Search Retainer,546
+2022-03-19,Nescafe ,4315,Monthly Retargeting Retainer,1114
+2022-03-31,KFC(Kentucky Fried Chicken),4305,Monthly Search Retainer,1267
+2022-03-20,KFC(Kentucky Fried Chicken),4315,Monthly Retargeting Retainer,1666
+2022-03-30,KFC(Kentucky Fried Chicken),4305,Monthly Retargeting Retainer,153
+2022-03-10,Levi's Jeans,4315,Monthly Retargeting Retainer,176
+2022-03-24,Levi's Jeans,4315,Monthly Traffic Retainer,756
+2022-03-14,Levi's Jeans,4305,Monthly Retargeting Retainer,1377
+2022-03-15,Pampers,4315,Monthly Traffic Retainer,1961
+2022-03-22,Pampers,4305,Monthly Retargeting Retainer,1142
+2022-03-30,Pampers,4315,Monthly Retargeting Retainer,1587
+2022-03-16,Pampers,4305,Monthly Search Retainer,1918
+2022-03-26,Coca-Cola,4315,Monthly Retargeting Retainer,1982
+2022-03-07,Tango (drink),4305,Monthly Retargeting Retainer,1784
+2022-03-29,Tango (drink),4315,Monthly Retargeting Retainer,320
+2022-03-07,Tango (drink),4315,Monthly Traffic Retainer,1466
+2022-03-24,Tizer,4305,Monthly Search Retainer,1304
+2022-03-16,Dr. Enuf ,4315,Monthly Traffic Retainer,1528
+2022-03-03,ToniCol,4305,Monthly Search Retainer,206
+2022-03-27,Campa Cola,4305,Monthly Retargeting Retainer,621
+2022-03-31,Campa Cola,4305,Monthly Search Retainer,1831
+2022-03-07,Campa Cola,4315,Monthly Retargeting Retainer,1664
+2022-03-19,Mezzo Mix,4315,Monthly Retargeting Retainer,1756
+2022-04-10,Costa Coffee,4315,Monthly Traffic Retainer,230
+2022-04-10,Costa Coffee,4305,Monthly Retargeting Retainer,591
+2022-04-05,Dasani,4305,Monthly Search Retainer,1533
+2022-04-29,Dasani,4305,Monthly Retargeting Retainer,531
+2022-04-03,Dasani ,4315,Monthly Retargeting Retainer,206
+2022-04-05,Dasani,4315,Monthly Traffic Retainer,1879
+2022-04-08,Heineken,4305,Monthly Search Retainer,1169
+2022-04-27,Heineken,4315,Monthly Traffic Retainer,572
+2022-04-25,Heineken,4305,Monthly Retargeting Retainer,987
+2022-04-18,Gatorade,4305,Monthly Retargeting Retainer,218
+2022-04-26,Gatorade,4315,Monthly Traffic Retainer,609
+2022-04-17,Gatorade,4315,Monthly Retargeting Retainer,1333
+2022-04-08,Tetley's Brewery,4305,Monthly Retargeting Retainer,69
+2022-04-06,Tetley's Brewery,4315,Monthly Traffic Retainer,1156
+2022-04-03,Batemans Brewery,4305,Monthly Search Retainer,1653
+2022-04-22,Batemans Brewery,4315,Monthly Retargeting Retainer,320
+2022-04-03,Batemans Brewery ,4315,Monthly Traffic Retainer,1206
+2022-04-30,Batemans Brewery,4305,Monthly Retargeting Retainer,1082
+2022-04-10,Grapette,4315,Monthly Retargeting Retainer,1497
+2022-04-24,Grapette,4315,Monthly Traffic Retainer,314
+2022-04-29,Grapette,4305,Monthly Retargeting Retainer,115
+2022-04-20,Grapette,4305,Monthly Search Retainer,640
+2022-04-18,Jif (lemon juice),4305,Monthly Retargeting Retainer,1315
+2022-04-12,Royal Tru,4305,Monthly Retargeting Retainer,791
+2022-04-21,Royal Tru,4315,Monthly Traffic Retainer,1355
+2022-04-03,Royal Tru,4305,Monthly Search Retainer,62
+2022-04-01,Oronamin,4305,Monthly Search Retainer,1135
+2022-04-11,Belvedere Vodka,4305,Monthly Retargeting Retainer,1732
+2022-04-17,Belvedere Vodka,4315,Monthly Traffic Retainer,862
+2022-04-16,Belvedere Vodka,4315,Monthly Retargeting Retainer,1848
+2022-04-17,Wodka Gorbatschow,4315,Monthly Traffic Retainer,319
+2022-04-27,White Horse (whisky),4315,Monthly Traffic Retainer,933
+2022-04-22,White Horse (whisky),4305,Monthly Search Retainer,1580
+2022-04-25,Grand Old Parr,4315,Monthly Traffic Retainer,1491
+2022-04-19,Grand Old Parr,4305,Monthly Search Retainer,1080
+2022-04-29,Grand Old Parr,4315,Monthly Retargeting Retainer,1530
+2022-04-30,Finlandia (vodka),4315,Monthly Traffic Retainer,1157
+2022-04-07,Finlandia (vodka),4305,Monthly Search Retainer,107
+2022-04-02,Finlandia (vodka),4305,Monthly Retargeting Retainer,1781
+2022-04-02,Head & Shoulders,4315,Monthly Traffic Retainer,1875
+2022-04-07,Head & Shoulders,4305,Monthly Retargeting Retainer,922
+2022-04-14,Head & Shoulders,4315,Monthly Retargeting Retainer,656
+2022-04-08,Head & Shoulders,4305,Monthly Search Retainer,799
+2022-04-16,Domino's Pizza,4305,Monthly Search Retainer,1053
+2022-04-06,Domino's Pizza,4315,Monthly Traffic Retainer,91
+2022-04-06,Domino's Pizza,4315,Monthly Retargeting Retainer,619
+2022-04-08,Domino's Pizza,4305,Monthly Retargeting Retainer,1713
+2022-04-27,Ben & Jerry's,4305,Monthly Search Retainer,981
+2022-04-22,Ben & Jerry's,4305,Monthly Retargeting Retainer,320
+2022-04-13,Ben & Jerry's,4315,Monthly Traffic Retainer,26
+2022-04-25,Heineken,4315,Monthly Retargeting Retainer,53
+2022-04-05,Gatorade,4315,Monthly Traffic Retainer,1518
+2022-04-15,Gatorade ,4305,Monthly Search Retainer,1050
+2022-04-21,Gatorade,4315,Monthly Retargeting Retainer,1840
+2022-04-06,Gatorade,4305,Monthly Retargeting Retainer,1334
+2022-04-21,Milo,4315,Monthly Retargeting Retainer,1238
+2022-04-15,Starbucks,4305,Monthly Search Retainer,1366
+2022-04-22,Starbucks,4315,Monthly Retargeting Retainer,1269
+2022-04-10,Starbucks,4315,Monthly Traffic Retainer,434
+2022-04-27,Audi ,4315,Monthly Retargeting Retainer,1900
+2022-04-03,Audi,4305,Monthly Retargeting Retainer,1299
+2022-04-21,Audi,4305,Monthly Search Retainer,730
+2022-04-28,Audi,4315,Monthly Traffic Retainer,1398
+2022-04-20,NIVEA,4315,Monthly Traffic Retainer,1923
+2022-04-05,Snickers,4305,Monthly Search Retainer,352
+2022-04-10,Snickers,4315,Monthly Traffic Retainer,1442
+2022-04-10,Snickers,4305,Monthly Retargeting Retainer,2127
+2022-04-15,Snickers,4315,Monthly Retargeting Retainer,371
+2022-04-16,Nescafe,4315,Monthly Retargeting Retainer,1466
+2022-04-03,KFC(Kentucky Fried Chicken),4305,Monthly Retargeting Retainer,529
+2022-04-12,Levi's Jeans,4315,Monthly Traffic Retainer,1580
+2022-04-12,Levi's Jeans,4305,Monthly Retargeting Retainer,1171
+2022-04-28,Levi's Jeans,4315,Monthly Retargeting Retainer,1235
+2022-04-01,Levi's Jeans,4305,Monthly Search Retainer,1888
+2022-04-15,Lipton,4305,Monthly Retargeting Retainer,1570
+2022-04-29,Pampers,4305,Monthly Retargeting Retainer,351
+2022-04-18,Coca-Cola,4315,Monthly Retargeting Retainer,1659
+2022-04-13,Coca-Cola,4305,Monthly Retargeting Retainer,745
+2022-04-05,Beam Suntory,4315,Monthly Traffic Retainer,1635
+2022-04-20,Beam Suntory,4305,Monthly Retargeting Retainer,1848
+2022-04-23,Beam Suntory,4315,Monthly Retargeting Retainer,558
+2022-04-23,Live+,4315,Monthly Retargeting Retainer,701
+2022-04-04,Live+,4305,Monthly Search Retainer,504
+2022-04-02,Live+,4315,Monthly Traffic Retainer,2117
+2022-04-19,Tango (drink),4305,Monthly Search Retainer,334
+2022-04-12,Tango (drink),4305,Monthly Retargeting Retainer,196
+2022-04-09,Tango (drink),4315,Monthly Traffic Retainer,466
+2022-04-23,Tizer,4315,Monthly Traffic Retainer,1667
+2022-04-04,Tizer,4315,Monthly Retargeting Retainer,931
+2022-04-30,Tizer,4305,Monthly Retargeting Retainer,1632
+2022-04-16,ToniCol,4305,Monthly Retargeting Retainer,1107
+2022-04-19,ToniCol,4305,Monthly Search Retainer,1213
+2022-04-16,ToniCol,4315,Monthly Traffic Retainer,803
+2022-04-11,ToniCol,4315,Monthly Retargeting Retainer,9
+2022-04-17,Campa Cola,4305,Monthly Search Retainer,990
+2022-04-29,Campa Cola,4315,Monthly Traffic Retainer,476
+2022-04-22,Campa Cola,4315,Monthly Retargeting Retainer,1147
+2022-04-26,Campa Cola ,4305,Monthly Retargeting Retainer,385
+2022-04-21,Mezzo Mix,4315,Monthly Retargeting Retainer,1110
+2022-04-01,Mezzo Mix,4305,Monthly Retargeting Retainer,1708
+2022-04-01,Mezzo Mix,4315,Monthly Traffic Retainer,58
+2022-04-17,Mezzo Mix,4305,Monthly Search Retainer,1501
+2022-05-16,Costa Coffee,4315,Monthly Traffic Retainer,909
+2022-05-20,Costa Coffee,4305,Monthly Retargeting Retainer,613
+2022-05-22,Costa Coffee,4315,Monthly Retargeting Retainer,1486
+2022-05-12,Dasani,4315,Monthly Retargeting Retainer,469
+2022-05-17,Dasani,4305,Monthly Retargeting Retainer,1444
+2022-05-03,Dasani,4305,Monthly Search Retainer,449
+2022-05-19,Dasani,4315,Monthly Traffic Retainer,1933
+2022-05-17,Heineken,4305,Monthly Retargeting Retainer,961
+2022-05-29,Heineken,4315,Monthly Retargeting Retainer,108
+2022-05-26,Heineken,4305,Monthly Search Retainer,1455
+2022-05-20,Heineken,4315,Monthly Traffic Retainer,562
+2022-05-11,Tetley's Brewery ,4315,Monthly Traffic Retainer,1929
+2022-05-11,Batemans Brewery,4315,Monthly Retargeting Retainer,652
+2022-05-30,Batemans Brewery,4305,Monthly Retargeting Retainer,1398
+2022-05-14,Grapette,4305,Monthly Retargeting Retainer,1737
+2022-05-20,Grapette,4315,Monthly Retargeting Retainer,1714
+2022-05-09,Grapette,4305,Monthly Search Retainer,1346
+2022-05-26,Grapette,4315,Monthly Traffic Retainer,9
+2022-05-04,Jif (lemon juice) ,4305,Monthly Search Retainer,276
+2022-05-24,Royal Tru,4315,Monthly Retargeting Retainer,1263
+2022-05-18,Royal Tru,4305,Monthly Search Retainer,1490
+2022-05-27,Oronamin,4315,Monthly Retargeting Retainer,1775
+2022-05-22,Culligan,4305,Monthly Retargeting Retainer,1094
+2022-05-25,Belvedere Vodka,4315,Monthly Retargeting Retainer,358
+2022-05-13,Belvedere Vodka,4305,Monthly Search Retainer,1171
+2022-05-31,Wodka Gorbatschow,4305,Monthly Retargeting Retainer,355
+2022-05-23,White Horse (whisky),4315,Monthly Traffic Retainer,1075
+2022-05-03,White Horse (whisky),4305,Monthly Search Retainer,1020
+2022-05-18,Finlandia (vodka),4305,Monthly Search Retainer,218
+2022-05-09,Colgate,4305,Monthly Search Retainer,1962
+2022-05-26,Colgate,4315,Monthly Retargeting Retainer,1216
+2022-05-24,Colgate,4305,Monthly Retargeting Retainer,1263
+2022-05-08,Colgate,4315,Monthly Traffic Retainer,1112
+2022-05-29,Pizza Hut,4315,Monthly Traffic Retainer,956
+2022-05-03,Head & Shoulders,4305,Monthly Retargeting Retainer,982
+2022-05-27,Domino's Pizza,4305,Monthly Search Retainer,852
+2022-05-02,Domino's Pizza,4315,Monthly Retargeting Retainer,1445
+2022-05-05,Domino's Pizza,4315,Monthly Traffic Retainer,731
+2022-05-09,Ben & Jerry's,4315,Monthly Traffic Retainer,131
+2022-05-29,Gatorade,4305,Monthly Retargeting Retainer,1469
+2022-05-12,Gatorade ,4305,Monthly Search Retainer,1679
+2022-05-10,Gatorade,4315,Monthly Traffic Retainer,739
+2022-05-09,Gatorade,4315,Monthly Retargeting Retainer,426
+2022-05-11,Milo,4315,Monthly Retargeting Retainer,1288
+2022-05-14,Milo,4315,Monthly Traffic Retainer,1504
+2022-05-20,Milo,4305,Monthly Search Retainer,1114
+2022-05-18,Milo,4305,Monthly Retargeting Retainer,1440
+2022-05-27,Starbucks,4305,Monthly Retargeting Retainer,1469
+2022-05-26,Starbucks,4305,Monthly Search Retainer,1203
+2022-05-08,Starbucks,4315,Monthly Retargeting Retainer,1772
+2022-05-01,Audi,4305,Monthly Search Retainer,1444
+2022-05-13,Audi,4315,Monthly Retargeting Retainer,1629
+2022-05-19,NIVEA,4315,Monthly Traffic Retainer,2003
+2022-05-17,NIVEA,4305,Monthly Search Retainer,1719
+2022-05-11,NIVEA,4315,Monthly Retargeting Retainer,2065
+2022-05-25,Nescafe,4315,Monthly Traffic Retainer,1376
+2022-05-23,Nescafe,4315,Monthly Retargeting Retainer,1067
+2022-05-02,Nescafe,4305,Monthly Retargeting Retainer,1371
+2022-05-06,KFC(Kentucky Fried Chicken),4305,Monthly Search Retainer,1441
+2022-05-08,KFC(Kentucky Fried Chicken),4315,Monthly Traffic Retainer,645
+2022-05-24,KFC(Kentucky Fried Chicken),4305,Monthly Retargeting Retainer,1796
+2022-05-28,KFC(Kentucky Fried Chicken),4315,Monthly Retargeting Retainer,1543
+2022-05-28,Levi's Jeans,4315,Monthly Traffic Retainer,2021
+2022-05-10,Levi's Jeans,4305,Monthly Search Retainer,681
+2022-05-16,Levi's Jeans,4315,Monthly Retargeting Retainer,295
+2022-05-12,Lipton,4315,Monthly Traffic Retainer,1549
+2022-05-18,Pampers,4315,Monthly Retargeting Retainer,846
+2022-05-12,Pampers,4305,Monthly Retargeting Retainer,919
+2022-05-17,Pampers,4315,Monthly Traffic Retainer,1405
+2022-05-25,Pampers,4305,Monthly Search Retainer,824
+2022-05-06,Coca-Cola,4305,Monthly Search Retainer,882
+2022-05-28,Coca-Cola,4315,Monthly Retargeting Retainer,1458
+2022-05-23,Coca-Cola,4315,Monthly Traffic Retainer,1588
+2022-05-20,Beam Suntory,4305,Monthly Retargeting Retainer,893
+2022-05-21,Beam Suntory,4315,Monthly Traffic Retainer,121
+2022-05-03,Live+,4305,Monthly Search Retainer,1296

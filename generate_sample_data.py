@@ -104,15 +104,23 @@ def generate_line_item(company, account:Account, tactic:Tactic, spend_seed, date
             }
 
 
-def generate_campaign(company, account:Account, tactic:Tactic, spend_seed, start_date:datetime.date, end_date:datetime.date):
+def generate_tactic_campaigns(company, account:Account, tactic:Tactic, spend_seed, start_date:datetime.date, end_date:datetime.date):
 
-    return {'company': company,
-            'platform':account.name,
-            'campaign':f'{tactic.name} campaign',
-            'start_date':start_date,
-            'end_date':end_date,
-            'amount':random.randint(int(spend_seed*0.85),int(spend_seed*1.15))
-            }
+    spend = random.randint(int(spend_seed*0.85),int(spend_seed*1.15))
+    spend = spend_seed
+    campaigns = []
+    campaign_types = ['Local','Statewide','National']
+    spend_a = int(random.random() * spend)
+    spend_b = spend - spend_a
+    for campaign_type,spend in zip(random.sample(campaign_types,2),[spend_a,spend_b]):
+        campaigns.append({'company': company,
+                          'platform':account.name,
+                          'campaign':f'{account.name} | {tactic.name} | {campaign_type}',
+                          'start_date':start_date,
+                          'end_date':end_date,
+                          'amount':spend
+                          })
+    return campaigns
 
 
 def generate_parents_csv():
@@ -140,9 +148,11 @@ def generate_line_items(spend_seeds, date_within_start:datetime.date, date_withi
 
 
 def generate_campaigns(spend_seeds, start_date:datetime.date, end_date:datetime.date):
-    return [generate_campaign(company, account, tactic, spend_seed, start_date, end_date)
-            for company, (account, tactic), spend_seed in spend_seeds]
+    campaigns = []
+    for company, (account, tactic), spend_seed in spend_seeds:
+        campaigns.extend(generate_tactic_campaigns(company, account, tactic, spend_seed, start_date, end_date))
 
+    return campaigns
 
 if __name__ == '__main__':
     with open('line_items.csv','w') as li_f:
