@@ -1,0 +1,523 @@
+company,platform,campaign,start_date,end_date,amount,tactic
+Evian,Google Ads,Google Ads | Retargeting | Statewide,2022-03-01,2022-03-31,1389,Retargeting
+Evian,Google Ads,Google Ads | Retargeting | Local,2022-03-01,2022-03-31,509,Retargeting
+Evian,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-03-01,2022-03-31,1385,Facebook Traffic
+Evian,Facebook Ads,Facebook Ads | Traffic | National,2022-03-01,2022-03-31,532,Facebook Traffic
+Evian,Facebook Ads,Facebook Ads | Retargeting | Local,2022-03-01,2022-03-31,847,Facebook Retargeting
+Evian,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-03-01,2022-03-31,768,Facebook Retargeting
+Dasani,Google Ads,Google Ads | Search | Local,2022-03-01,2022-03-31,421,Search
+Dasani,Google Ads,Google Ads | Search | Statewide,2022-03-01,2022-03-31,1414,Search
+Dasani,Facebook Ads,Facebook Ads | Traffic | Local,2022-03-01,2022-03-31,1435,Facebook Traffic
+Dasani,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-03-01,2022-03-31,143,Facebook Traffic
+Heineken,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-03-01,2022-03-31,7,Facebook Traffic
+Heineken,Facebook Ads,Facebook Ads | Traffic | National,2022-03-01,2022-03-31,6,Facebook Traffic
+Gatorade,Facebook Ads,Facebook Ads | Traffic | Local,2022-03-01,2022-03-31,285,Facebook Traffic
+Gatorade,Facebook Ads,Facebook Ads | Traffic | National,2022-03-01,2022-03-31,404,Facebook Traffic
+Gatorade,Google Ads,Google Ads | Search | Statewide,2022-03-01,2022-03-31,1247,Search
+Gatorade,Google Ads,Google Ads | Search | National,2022-03-01,2022-03-31,482,Search
+Gatorade,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-03-01,2022-03-31,278,Facebook Retargeting
+Gatorade,Facebook Ads,Facebook Ads | Retargeting | Local,2022-03-01,2022-03-31,205,Facebook Retargeting
+Gatorade,Google Ads,Google Ads | Retargeting | Statewide,2022-03-01,2022-03-31,34,Retargeting
+Gatorade,Google Ads,Google Ads | Retargeting | National,2022-03-01,2022-03-31,1651,Retargeting
+Tetley's Brewery,Google Ads,Google Ads | Search | Local,2022-03-01,2022-03-31,40,Search
+Tetley's Brewery,Google Ads,Google Ads | Search | National,2022-03-01,2022-03-31,148,Search
+Jones Soda,Facebook Ads,Facebook Ads | Traffic | National,2022-03-01,2022-03-31,251,Facebook Traffic
+Jones Soda,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-03-01,2022-03-31,860,Facebook Traffic
+Grapette,Google Ads,Google Ads | Search | Statewide,2022-03-01,2022-03-31,446,Search
+Grapette,Google Ads,Google Ads | Search | National,2022-03-01,2022-03-31,53,Search
+Grapette,Google Ads,Google Ads | Retargeting | Local,2022-03-01,2022-03-31,314,Retargeting
+Grapette,Google Ads,Google Ads | Retargeting | Statewide,2022-03-01,2022-03-31,659,Retargeting
+Grapette,Facebook Ads,Facebook Ads | Retargeting | National,2022-03-01,2022-03-31,0,Facebook Retargeting
+Grapette,Facebook Ads,Facebook Ads | Retargeting | Local,2022-03-01,2022-03-31,18,Facebook Retargeting
+Grapette,Facebook Ads,Facebook Ads | Traffic | National,2022-03-01,2022-03-31,179,Facebook Traffic
+Grapette,Facebook Ads,Facebook Ads | Traffic | Local,2022-03-01,2022-03-31,22,Facebook Traffic
+Jif (lemon juice),Google Ads,Google Ads | Search | Local,2022-03-01,2022-03-31,495,Search
+Jif (lemon juice),Google Ads,Google Ads | Search | Statewide,2022-03-01,2022-03-31,741,Search
+Jif (lemon juice),Facebook Ads,Facebook Ads | Retargeting | National,2022-03-01,2022-03-31,594,Facebook Retargeting
+Jif (lemon juice),Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-03-01,2022-03-31,128,Facebook Retargeting
+Jif (lemon juice),Facebook Ads,Facebook Ads | Traffic | National,2022-03-01,2022-03-31,28,Facebook Traffic
+Jif (lemon juice),Facebook Ads,Facebook Ads | Traffic | Statewide,2022-03-01,2022-03-31,176,Facebook Traffic
+Jif (lemon juice),Google Ads,Google Ads | Retargeting | Local,2022-03-01,2022-03-31,142,Retargeting
+Jif (lemon juice),Google Ads,Google Ads | Retargeting | National,2022-03-01,2022-03-31,172,Retargeting
+Royal Tru,Google Ads,Google Ads | Retargeting | National,2022-03-01,2022-03-31,54,Retargeting
+Royal Tru,Google Ads,Google Ads | Retargeting | Local,2022-03-01,2022-03-31,11,Retargeting
+Royal Tru,Facebook Ads,Facebook Ads | Traffic | National,2022-03-01,2022-03-31,943,Facebook Traffic
+Royal Tru,Facebook Ads,Facebook Ads | Traffic | Local,2022-03-01,2022-03-31,374,Facebook Traffic
+Oronamin,Facebook Ads,Facebook Ads | Retargeting | National,2022-03-01,2022-03-31,252,Facebook Retargeting
+Oronamin,Facebook Ads,Facebook Ads | Retargeting | Local,2022-03-01,2022-03-31,1138,Facebook Retargeting
+Oronamin,Google Ads,Google Ads | Retargeting | Statewide,2022-03-01,2022-03-31,385,Retargeting
+Oronamin,Google Ads,Google Ads | Retargeting | Local,2022-03-01,2022-03-31,305,Retargeting
+Oronamin,Google Ads,Google Ads | Search | Local,2022-03-01,2022-03-31,318,Search
+Oronamin,Google Ads,Google Ads | Search | Statewide,2022-03-01,2022-03-31,231,Search
+Oronamin,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-03-01,2022-03-31,439,Facebook Traffic
+Oronamin,Facebook Ads,Facebook Ads | Traffic | Local,2022-03-01,2022-03-31,249,Facebook Traffic
+Culligan,Facebook Ads,Facebook Ads | Traffic | National,2022-03-01,2022-03-31,1256,Facebook Traffic
+Culligan,Facebook Ads,Facebook Ads | Traffic | Local,2022-03-01,2022-03-31,152,Facebook Traffic
+Culligan,Facebook Ads,Facebook Ads | Retargeting | Local,2022-03-01,2022-03-31,1189,Facebook Retargeting
+Culligan,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-03-01,2022-03-31,778,Facebook Retargeting
+Culligan,Google Ads,Google Ads | Retargeting | Statewide,2022-03-01,2022-03-31,1239,Retargeting
+Culligan,Google Ads,Google Ads | Retargeting | National,2022-03-01,2022-03-31,601,Retargeting
+Culligan,Google Ads,Google Ads | Search | Statewide,2022-03-01,2022-03-31,173,Search
+Culligan,Google Ads,Google Ads | Search | Local,2022-03-01,2022-03-31,218,Search
+Fanta,Facebook Ads,Facebook Ads | Traffic | National,2022-03-01,2022-03-31,311,Facebook Traffic
+Fanta,Facebook Ads,Facebook Ads | Traffic | Local,2022-03-01,2022-03-31,311,Facebook Traffic
+Fanta,Facebook Ads,Facebook Ads | Retargeting | National,2022-03-01,2022-03-31,854,Facebook Retargeting
+Fanta,Facebook Ads,Facebook Ads | Retargeting | Local,2022-03-01,2022-03-31,69,Facebook Retargeting
+Fanta,Google Ads,Google Ads | Retargeting | Local,2022-03-01,2022-03-31,183,Retargeting
+Fanta,Google Ads,Google Ads | Retargeting | Statewide,2022-03-01,2022-03-31,159,Retargeting
+Fanta,Google Ads,Google Ads | Search | Statewide,2022-03-01,2022-03-31,125,Search
+Fanta,Google Ads,Google Ads | Search | Local,2022-03-01,2022-03-31,28,Search
+Pizza Hut,Google Ads,Google Ads | Search | National,2022-03-01,2022-03-31,3,Search
+Pizza Hut,Google Ads,Google Ads | Search | Statewide,2022-03-01,2022-03-31,270,Search
+Pizza Hut,Google Ads,Google Ads | Retargeting | National,2022-03-01,2022-03-31,648,Retargeting
+Pizza Hut,Google Ads,Google Ads | Retargeting | Local,2022-03-01,2022-03-31,1035,Retargeting
+Pizza Hut,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-03-01,2022-03-31,109,Facebook Traffic
+Pizza Hut,Facebook Ads,Facebook Ads | Traffic | National,2022-03-01,2022-03-31,547,Facebook Traffic
+Pizza Hut,Facebook Ads,Facebook Ads | Retargeting | Local,2022-03-01,2022-03-31,3,Facebook Retargeting
+Pizza Hut,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-03-01,2022-03-31,9,Facebook Retargeting
+Head & Shoulders,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-03-01,2022-03-31,492,Facebook Retargeting
+Head & Shoulders,Facebook Ads,Facebook Ads | Retargeting | Local,2022-03-01,2022-03-31,807,Facebook Retargeting
+Head & Shoulders,Google Ads,Google Ads | Retargeting | National,2022-03-01,2022-03-31,46,Retargeting
+Head & Shoulders,Google Ads,Google Ads | Retargeting | Local,2022-03-01,2022-03-31,273,Retargeting
+Head & Shoulders,Facebook Ads,Facebook Ads | Traffic | Local,2022-03-01,2022-03-31,46,Facebook Traffic
+Head & Shoulders,Facebook Ads,Facebook Ads | Traffic | National,2022-03-01,2022-03-31,102,Facebook Traffic
+Head & Shoulders,Google Ads,Google Ads | Search | National,2022-03-01,2022-03-31,751,Search
+Head & Shoulders,Google Ads,Google Ads | Search | Statewide,2022-03-01,2022-03-31,7,Search
+Domino's Pizza,Facebook Ads,Facebook Ads | Retargeting | National,2022-03-01,2022-03-31,645,Facebook Retargeting
+Domino's Pizza,Facebook Ads,Facebook Ads | Retargeting | Local,2022-03-01,2022-03-31,1138,Facebook Retargeting
+Domino's Pizza,Facebook Ads,Facebook Ads | Traffic | National,2022-03-01,2022-03-31,588,Facebook Traffic
+Domino's Pizza,Facebook Ads,Facebook Ads | Traffic | Local,2022-03-01,2022-03-31,1154,Facebook Traffic
+Ben & Jerry's,Google Ads,Google Ads | Retargeting | Statewide,2022-03-01,2022-03-31,428,Retargeting
+Ben & Jerry's,Google Ads,Google Ads | Retargeting | National,2022-03-01,2022-03-31,393,Retargeting
+Ben & Jerry's,Google Ads,Google Ads | Search | National,2022-03-01,2022-03-31,131,Search
+Ben & Jerry's,Google Ads,Google Ads | Search | Statewide,2022-03-01,2022-03-31,1337,Search
+Heineken,Google Ads,Google Ads | Retargeting | Statewide,2022-03-01,2022-03-31,1200,Retargeting
+Heineken,Google Ads,Google Ads | Retargeting | Local,2022-03-01,2022-03-31,792,Retargeting
+Heineken,Facebook Ads,Facebook Ads | Traffic | National,2022-03-01,2022-03-31,1705,Facebook Traffic
+Heineken,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-03-01,2022-03-31,220,Facebook Traffic
+Milo,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-03-01,2022-03-31,660,Facebook Retargeting
+Milo,Facebook Ads,Facebook Ads | Retargeting | Local,2022-03-01,2022-03-31,255,Facebook Retargeting
+Milo,Google Ads,Google Ads | Search | Local,2022-03-01,2022-03-31,56,Search
+Milo,Google Ads,Google Ads | Search | Statewide,2022-03-01,2022-03-31,947,Search
+Milo,Facebook Ads,Facebook Ads | Traffic | National,2022-03-01,2022-03-31,52,Facebook Traffic
+Milo,Facebook Ads,Facebook Ads | Traffic | Local,2022-03-01,2022-03-31,71,Facebook Traffic
+Starbucks,Google Ads,Google Ads | Search | National,2022-03-01,2022-03-31,336,Search
+Starbucks,Google Ads,Google Ads | Search | Statewide,2022-03-01,2022-03-31,984,Search
+Starbucks,Facebook Ads,Facebook Ads | Retargeting | National,2022-03-01,2022-03-31,634,Facebook Retargeting
+Starbucks,Facebook Ads,Facebook Ads | Retargeting | Local,2022-03-01,2022-03-31,1070,Facebook Retargeting
+Audi,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-03-01,2022-03-31,270,Facebook Retargeting
+Audi,Facebook Ads,Facebook Ads | Retargeting | Local,2022-03-01,2022-03-31,263,Facebook Retargeting
+Audi,Google Ads,Google Ads | Retargeting | National,2022-03-01,2022-03-31,506,Retargeting
+Audi,Google Ads,Google Ads | Retargeting | Local,2022-03-01,2022-03-31,590,Retargeting
+Audi,Facebook Ads,Facebook Ads | Traffic | Local,2022-03-01,2022-03-31,1130,Facebook Traffic
+Audi,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-03-01,2022-03-31,654,Facebook Traffic
+Snickers,Google Ads,Google Ads | Retargeting | Local,2022-03-01,2022-03-31,126,Retargeting
+Snickers,Google Ads,Google Ads | Retargeting | National,2022-03-01,2022-03-31,7,Retargeting
+Snickers,Facebook Ads,Facebook Ads | Traffic | National,2022-03-01,2022-03-31,58,Facebook Traffic
+Snickers,Facebook Ads,Facebook Ads | Traffic | Local,2022-03-01,2022-03-31,61,Facebook Traffic
+Snickers,Google Ads,Google Ads | Search | National,2022-03-01,2022-03-31,176,Search
+Snickers,Google Ads,Google Ads | Search | Statewide,2022-03-01,2022-03-31,134,Search
+Nescafe,Google Ads,Google Ads | Retargeting | National,2022-03-01,2022-03-31,981,Retargeting
+Nescafe,Google Ads,Google Ads | Retargeting | Statewide,2022-03-01,2022-03-31,530,Retargeting
+Nescafe,Google Ads,Google Ads | Search | Statewide,2022-03-01,2022-03-31,244,Search
+Nescafe,Google Ads,Google Ads | Search | National,2022-03-01,2022-03-31,392,Search
+Nescafe,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-03-01,2022-03-31,473,Facebook Retargeting
+Nescafe,Facebook Ads,Facebook Ads | Retargeting | National,2022-03-01,2022-03-31,794,Facebook Retargeting
+KFC(Kentucky Fried Chicken),Google Ads,Google Ads | Search | National,2022-03-01,2022-03-31,453,Search
+KFC(Kentucky Fried Chicken),Google Ads,Google Ads | Search | Local,2022-03-01,2022-03-31,700,Search
+KFC(Kentucky Fried Chicken),Facebook Ads,Facebook Ads | Retargeting | National,2022-03-01,2022-03-31,1802,Facebook Retargeting
+KFC(Kentucky Fried Chicken),Facebook Ads,Facebook Ads | Retargeting | Local,2022-03-01,2022-03-31,73,Facebook Retargeting
+KFC(Kentucky Fried Chicken),Google Ads,Google Ads | Retargeting | Local,2022-03-01,2022-03-31,122,Retargeting
+KFC(Kentucky Fried Chicken),Google Ads,Google Ads | Retargeting | National,2022-03-01,2022-03-31,47,Retargeting
+Levi's Jeans,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-03-01,2022-03-31,135,Facebook Retargeting
+Levi's Jeans,Facebook Ads,Facebook Ads | Retargeting | Local,2022-03-01,2022-03-31,60,Facebook Retargeting
+Levi's Jeans,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-03-01,2022-03-31,229,Facebook Traffic
+Levi's Jeans,Facebook Ads,Facebook Ads | Traffic | National,2022-03-01,2022-03-31,563,Facebook Traffic
+Levi's Jeans,Google Ads,Google Ads | Retargeting | Local,2022-03-01,2022-03-31,411,Retargeting
+Levi's Jeans,Google Ads,Google Ads | Retargeting | National,2022-03-01,2022-03-31,789,Retargeting
+Pampers,Facebook Ads,Facebook Ads | Traffic | National,2022-03-01,2022-03-31,139,Facebook Traffic
+Pampers,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-03-01,2022-03-31,1859,Facebook Traffic
+Pampers,Google Ads,Google Ads | Retargeting | Statewide,2022-03-01,2022-03-31,507,Retargeting
+Pampers,Google Ads,Google Ads | Retargeting | Local,2022-03-01,2022-03-31,706,Retargeting
+Pampers,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-03-01,2022-03-31,479,Facebook Retargeting
+Pampers,Facebook Ads,Facebook Ads | Retargeting | Local,2022-03-01,2022-03-31,1252,Facebook Retargeting
+Pampers,Google Ads,Google Ads | Search | National,2022-03-01,2022-03-31,611,Search
+Pampers,Google Ads,Google Ads | Search | Local,2022-03-01,2022-03-31,1083,Search
+Coca-Cola,Facebook Ads,Facebook Ads | Retargeting | National,2022-03-01,2022-03-31,335,Facebook Retargeting
+Coca-Cola,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-03-01,2022-03-31,1413,Facebook Retargeting
+Tango (drink),Google Ads,Google Ads | Retargeting | Statewide,2022-03-01,2022-03-31,1227,Retargeting
+Tango (drink),Google Ads,Google Ads | Retargeting | Local,2022-03-01,2022-03-31,691,Retargeting
+Tango (drink),Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-03-01,2022-03-31,244,Facebook Retargeting
+Tango (drink),Facebook Ads,Facebook Ads | Retargeting | National,2022-03-01,2022-03-31,97,Facebook Retargeting
+Tango (drink),Facebook Ads,Facebook Ads | Traffic | Statewide,2022-03-01,2022-03-31,435,Facebook Traffic
+Tango (drink),Facebook Ads,Facebook Ads | Traffic | National,2022-03-01,2022-03-31,889,Facebook Traffic
+Tizer,Google Ads,Google Ads | Search | National,2022-03-01,2022-03-31,160,Search
+Tizer,Google Ads,Google Ads | Search | Statewide,2022-03-01,2022-03-31,1066,Search
+Dr. Enuf,Facebook Ads,Facebook Ads | Traffic | Local,2022-03-01,2022-03-31,923,Facebook Traffic
+Dr. Enuf,Facebook Ads,Facebook Ads | Traffic | National,2022-03-01,2022-03-31,480,Facebook Traffic
+ToniCol,Google Ads,Google Ads | Search | National,2022-03-01,2022-03-31,167,Search
+ToniCol,Google Ads,Google Ads | Search | Statewide,2022-03-01,2022-03-31,51,Search
+Campa Cola,Google Ads,Google Ads | Retargeting | Statewide,2022-03-01,2022-03-31,167,Retargeting
+Campa Cola,Google Ads,Google Ads | Retargeting | Local,2022-03-01,2022-03-31,473,Retargeting
+Campa Cola,Google Ads,Google Ads | Search | Statewide,2022-03-01,2022-03-31,492,Search
+Campa Cola,Google Ads,Google Ads | Search | Local,2022-03-01,2022-03-31,1387,Search
+Campa Cola,Facebook Ads,Facebook Ads | Retargeting | National,2022-03-01,2022-03-31,1823,Facebook Retargeting
+Campa Cola,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-03-01,2022-03-31,121,Facebook Retargeting
+Mezzo Mix,Facebook Ads,Facebook Ads | Retargeting | National,2022-03-01,2022-03-31,718,Facebook Retargeting
+Mezzo Mix,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-03-01,2022-03-31,1191,Facebook Retargeting
+Costa Coffee,Facebook Ads,Facebook Ads | Traffic | Local,2022-04-01,2022-04-30,191,Facebook Traffic
+Costa Coffee,Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,16,Facebook Traffic
+Costa Coffee,Google Ads,Google Ads | Retargeting | Statewide,2022-04-01,2022-04-30,455,Retargeting
+Costa Coffee,Google Ads,Google Ads | Retargeting | National,2022-04-01,2022-04-30,123,Retargeting
+Dasani,Google Ads,Google Ads | Search | Statewide,2022-04-01,2022-04-30,1217,Search
+Dasani,Google Ads,Google Ads | Search | National,2022-04-01,2022-04-30,120,Search
+Dasani,Google Ads,Google Ads | Retargeting | Local,2022-04-01,2022-04-30,296,Retargeting
+Dasani,Google Ads,Google Ads | Retargeting | Statewide,2022-04-01,2022-04-30,197,Retargeting
+Dasani,Facebook Ads,Facebook Ads | Retargeting | Local,2022-04-01,2022-04-30,89,Facebook Retargeting
+Dasani,Facebook Ads,Facebook Ads | Retargeting | National,2022-04-01,2022-04-30,102,Facebook Retargeting
+Dasani,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-04-01,2022-04-30,312,Facebook Traffic
+Dasani,Facebook Ads,Facebook Ads | Traffic | Local,2022-04-01,2022-04-30,1378,Facebook Traffic
+Heineken,Google Ads,Google Ads | Search | Local,2022-04-01,2022-04-30,372,Search
+Heineken,Google Ads,Google Ads | Search | National,2022-04-01,2022-04-30,852,Search
+Heineken,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-04-01,2022-04-30,240,Facebook Traffic
+Heineken,Facebook Ads,Facebook Ads | Traffic | Local,2022-04-01,2022-04-30,324,Facebook Traffic
+Heineken,Google Ads,Google Ads | Retargeting | National,2022-04-01,2022-04-30,101,Retargeting
+Heineken,Google Ads,Google Ads | Retargeting | Local,2022-04-01,2022-04-30,854,Retargeting
+Gatorade,Google Ads,Google Ads | Retargeting | Local,2022-04-01,2022-04-30,109,Retargeting
+Gatorade,Google Ads,Google Ads | Retargeting | Statewide,2022-04-01,2022-04-30,134,Retargeting
+Gatorade,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-04-01,2022-04-30,135,Facebook Traffic
+Gatorade,Facebook Ads,Facebook Ads | Traffic | Local,2022-04-01,2022-04-30,470,Facebook Traffic
+Gatorade,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-04-01,2022-04-30,830,Facebook Retargeting
+Gatorade,Facebook Ads,Facebook Ads | Retargeting | Local,2022-04-01,2022-04-30,494,Facebook Retargeting
+Tetley's Brewery,Google Ads,Google Ads | Retargeting | National,2022-04-01,2022-04-30,12,Retargeting
+Tetley's Brewery,Google Ads,Google Ads | Retargeting | Statewide,2022-04-01,2022-04-30,69,Retargeting
+Tetley's Brewery,Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,520,Facebook Traffic
+Tetley's Brewery,Facebook Ads,Facebook Ads | Traffic | Local,2022-04-01,2022-04-30,784,Facebook Traffic
+Batemans Brewery,Google Ads,Google Ads | Search | Local,2022-04-01,2022-04-30,879,Search
+Batemans Brewery,Google Ads,Google Ads | Search | National,2022-04-01,2022-04-30,753,Search
+Batemans Brewery,Facebook Ads,Facebook Ads | Retargeting | Local,2022-04-01,2022-04-30,129,Facebook Retargeting
+Batemans Brewery,Facebook Ads,Facebook Ads | Retargeting | National,2022-04-01,2022-04-30,162,Facebook Retargeting
+Batemans Brewery,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-04-01,2022-04-30,246,Facebook Traffic
+Batemans Brewery,Facebook Ads,Facebook Ads | Traffic | Local,2022-04-01,2022-04-30,921,Facebook Traffic
+Batemans Brewery,Google Ads,Google Ads | Retargeting | National,2022-04-01,2022-04-30,776,Retargeting
+Batemans Brewery,Google Ads,Google Ads | Retargeting | Statewide,2022-04-01,2022-04-30,191,Retargeting
+Grapette,Facebook Ads,Facebook Ads | Retargeting | National,2022-04-01,2022-04-30,1139,Facebook Retargeting
+Grapette,Facebook Ads,Facebook Ads | Retargeting | Local,2022-04-01,2022-04-30,288,Facebook Retargeting
+Grapette,Facebook Ads,Facebook Ads | Traffic | Local,2022-04-01,2022-04-30,48,Facebook Traffic
+Grapette,Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,256,Facebook Traffic
+Grapette,Google Ads,Google Ads | Retargeting | Statewide,2022-04-01,2022-04-30,14,Retargeting
+Grapette,Google Ads,Google Ads | Retargeting | National,2022-04-01,2022-04-30,106,Retargeting
+Grapette,Google Ads,Google Ads | Search | Local,2022-04-01,2022-04-30,135,Search
+Grapette,Google Ads,Google Ads | Search | Statewide,2022-04-01,2022-04-30,472,Search
+Jif (lemon juice),Google Ads,Google Ads | Retargeting | Local,2022-04-01,2022-04-30,206,Retargeting
+Jif (lemon juice),Google Ads,Google Ads | Retargeting | National,2022-04-01,2022-04-30,1204,Retargeting
+Royal Tru,Google Ads,Google Ads | Retargeting | Local,2022-04-01,2022-04-30,218,Retargeting
+Royal Tru,Google Ads,Google Ads | Retargeting | National,2022-04-01,2022-04-30,572,Retargeting
+Royal Tru,Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,1330,Facebook Traffic
+Royal Tru,Facebook Ads,Facebook Ads | Traffic | Local,2022-04-01,2022-04-30,198,Facebook Traffic
+Royal Tru,Google Ads,Google Ads | Search | Local,2022-04-01,2022-04-30,62,Search
+Royal Tru,Google Ads,Google Ads | Search | Statewide,2022-04-01,2022-04-30,1,Search
+Oronamin,Google Ads,Google Ads | Search | Local,2022-04-01,2022-04-30,842,Search
+Oronamin,Google Ads,Google Ads | Search | National,2022-04-01,2022-04-30,164,Search
+Belvedere Vodka,Google Ads,Google Ads | Retargeting | Local,2022-04-01,2022-04-30,991,Retargeting
+Belvedere Vodka,Google Ads,Google Ads | Retargeting | National,2022-04-01,2022-04-30,704,Retargeting
+Belvedere Vodka,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-04-01,2022-04-30,711,Facebook Traffic
+Belvedere Vodka,Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,249,Facebook Traffic
+Belvedere Vodka,Facebook Ads,Facebook Ads | Retargeting | Local,2022-04-01,2022-04-30,528,Facebook Retargeting
+Belvedere Vodka,Facebook Ads,Facebook Ads | Retargeting | National,2022-04-01,2022-04-30,1349,Facebook Retargeting
+Wodka Gorbatschow,Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,188,Facebook Traffic
+Wodka Gorbatschow,Facebook Ads,Facebook Ads | Traffic | Local,2022-04-01,2022-04-30,159,Facebook Traffic
+White Horse (whisky),Facebook Ads,Facebook Ads | Traffic | Statewide,2022-04-01,2022-04-30,1001,Facebook Traffic
+White Horse (whisky),Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,88,Facebook Traffic
+White Horse (whisky),Google Ads,Google Ads | Search | National,2022-04-01,2022-04-30,592,Search
+White Horse (whisky),Google Ads,Google Ads | Search | Local,2022-04-01,2022-04-30,1255,Search
+Grand Old Parr,Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,1141,Facebook Traffic
+Grand Old Parr,Facebook Ads,Facebook Ads | Traffic | Local,2022-04-01,2022-04-30,426,Facebook Traffic
+Grand Old Parr,Google Ads,Google Ads | Search | Local,2022-04-01,2022-04-30,629,Search
+Grand Old Parr,Google Ads,Google Ads | Search | Statewide,2022-04-01,2022-04-30,533,Search
+Grand Old Parr,Facebook Ads,Facebook Ads | Retargeting | National,2022-04-01,2022-04-30,1487,Facebook Retargeting
+Grand Old Parr,Facebook Ads,Facebook Ads | Retargeting | Local,2022-04-01,2022-04-30,298,Facebook Retargeting
+Finlandia (vodka),Facebook Ads,Facebook Ads | Traffic | Statewide,2022-04-01,2022-04-30,838,Facebook Traffic
+Finlandia (vodka),Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,238,Facebook Traffic
+Finlandia (vodka),Google Ads,Google Ads | Search | Local,2022-04-01,2022-04-30,104,Search
+Finlandia (vodka),Google Ads,Google Ads | Search | National,2022-04-01,2022-04-30,2,Search
+Finlandia (vodka),Google Ads,Google Ads | Retargeting | Local,2022-04-01,2022-04-30,904,Retargeting
+Finlandia (vodka),Google Ads,Google Ads | Retargeting | National,2022-04-01,2022-04-30,896,Retargeting
+Head & Shoulders,Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,1640,Facebook Traffic
+Head & Shoulders,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-04-01,2022-04-30,324,Facebook Traffic
+Head & Shoulders,Google Ads,Google Ads | Retargeting | Statewide,2022-04-01,2022-04-30,470,Retargeting
+Head & Shoulders,Google Ads,Google Ads | Retargeting | Local,2022-04-01,2022-04-30,506,Retargeting
+Head & Shoulders,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-04-01,2022-04-30,455,Facebook Retargeting
+Head & Shoulders,Facebook Ads,Facebook Ads | Retargeting | Local,2022-04-01,2022-04-30,208,Facebook Retargeting
+Head & Shoulders,Google Ads,Google Ads | Search | Statewide,2022-04-01,2022-04-30,499,Search
+Head & Shoulders,Google Ads,Google Ads | Search | Local,2022-04-01,2022-04-30,326,Search
+Domino's Pizza,Google Ads,Google Ads | Search | Local,2022-04-01,2022-04-30,277,Search
+Domino's Pizza,Google Ads,Google Ads | Search | National,2022-04-01,2022-04-30,682,Search
+Domino's Pizza,Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,62,Facebook Traffic
+Domino's Pizza,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-04-01,2022-04-30,45,Facebook Traffic
+Domino's Pizza,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-04-01,2022-04-30,580,Facebook Retargeting
+Domino's Pizza,Facebook Ads,Facebook Ads | Retargeting | National,2022-04-01,2022-04-30,93,Facebook Retargeting
+Domino's Pizza,Google Ads,Google Ads | Retargeting | National,2022-04-01,2022-04-30,1505,Retargeting
+Domino's Pizza,Google Ads,Google Ads | Retargeting | Statewide,2022-04-01,2022-04-30,134,Retargeting
+Ben & Jerry's,Google Ads,Google Ads | Search | Local,2022-04-01,2022-04-30,726,Search
+Ben & Jerry's,Google Ads,Google Ads | Search | National,2022-04-01,2022-04-30,201,Search
+Ben & Jerry's,Google Ads,Google Ads | Retargeting | Local,2022-04-01,2022-04-30,193,Retargeting
+Ben & Jerry's,Google Ads,Google Ads | Retargeting | National,2022-04-01,2022-04-30,148,Retargeting
+Ben & Jerry's,Facebook Ads,Facebook Ads | Traffic | Local,2022-04-01,2022-04-30,17,Facebook Traffic
+Ben & Jerry's,Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,6,Facebook Traffic
+Heineken,Facebook Ads,Facebook Ads | Retargeting | Local,2022-04-01,2022-04-30,41,Facebook Retargeting
+Heineken,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-04-01,2022-04-30,18,Facebook Retargeting
+Gatorade,Facebook Ads,Facebook Ads | Traffic | Local,2022-04-01,2022-04-30,1050,Facebook Traffic
+Gatorade,Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,513,Facebook Traffic
+Gatorade,Google Ads,Google Ads | Search | National,2022-04-01,2022-04-30,23,Search
+Gatorade,Google Ads,Google Ads | Search | Statewide,2022-04-01,2022-04-30,1014,Search
+Gatorade,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-04-01,2022-04-30,666,Facebook Retargeting
+Gatorade,Facebook Ads,Facebook Ads | Retargeting | National,2022-04-01,2022-04-30,1314,Facebook Retargeting
+Gatorade,Google Ads,Google Ads | Retargeting | Statewide,2022-04-01,2022-04-30,19,Retargeting
+Gatorade,Google Ads,Google Ads | Retargeting | Local,2022-04-01,2022-04-30,1238,Retargeting
+Milo,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-04-01,2022-04-30,1081,Facebook Retargeting
+Milo,Facebook Ads,Facebook Ads | Retargeting | National,2022-04-01,2022-04-30,354,Facebook Retargeting
+Starbucks,Google Ads,Google Ads | Search | National,2022-04-01,2022-04-30,695,Search
+Starbucks,Google Ads,Google Ads | Search | Local,2022-04-01,2022-04-30,639,Search
+Starbucks,Facebook Ads,Facebook Ads | Retargeting | National,2022-04-01,2022-04-30,66,Facebook Retargeting
+Starbucks,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-04-01,2022-04-30,1298,Facebook Retargeting
+Starbucks,Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,154,Facebook Traffic
+Starbucks,Facebook Ads,Facebook Ads | Traffic | Local,2022-04-01,2022-04-30,234,Facebook Traffic
+Audi,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-04-01,2022-04-30,855,Facebook Retargeting
+Audi,Facebook Ads,Facebook Ads | Retargeting | Local,2022-04-01,2022-04-30,1134,Facebook Retargeting
+Audi,Google Ads,Google Ads | Retargeting | Statewide,2022-04-01,2022-04-30,634,Retargeting
+Audi,Google Ads,Google Ads | Retargeting | National,2022-04-01,2022-04-30,621,Retargeting
+Audi,Google Ads,Google Ads | Search | National,2022-04-01,2022-04-30,48,Search
+Audi,Google Ads,Google Ads | Search | Local,2022-04-01,2022-04-30,705,Search
+Audi,Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,332,Facebook Traffic
+Audi,Facebook Ads,Facebook Ads | Traffic | Local,2022-04-01,2022-04-30,1104,Facebook Traffic
+NIVEA,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-04-01,2022-04-30,1140,Facebook Traffic
+NIVEA,Facebook Ads,Facebook Ads | Traffic | Local,2022-04-01,2022-04-30,658,Facebook Traffic
+Snickers,Google Ads,Google Ads | Search | Local,2022-04-01,2022-04-30,134,Search
+Snickers,Google Ads,Google Ads | Search | National,2022-04-01,2022-04-30,240,Search
+Snickers,Facebook Ads,Facebook Ads | Traffic | Local,2022-04-01,2022-04-30,1080,Facebook Traffic
+Snickers,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-04-01,2022-04-30,270,Facebook Traffic
+Snickers,Google Ads,Google Ads | Retargeting | National,2022-04-01,2022-04-30,1890,Retargeting
+Snickers,Google Ads,Google Ads | Retargeting | Statewide,2022-04-01,2022-04-30,87,Retargeting
+Snickers,Facebook Ads,Facebook Ads | Retargeting | Local,2022-04-01,2022-04-30,41,Facebook Retargeting
+Snickers,Facebook Ads,Facebook Ads | Retargeting | National,2022-04-01,2022-04-30,292,Facebook Retargeting
+Nescafe,Facebook Ads,Facebook Ads | Retargeting | National,2022-04-01,2022-04-30,689,Facebook Retargeting
+Nescafe,Facebook Ads,Facebook Ads | Retargeting | Local,2022-04-01,2022-04-30,765,Facebook Retargeting
+KFC(Kentucky Fried Chicken),Google Ads,Google Ads | Retargeting | National,2022-04-01,2022-04-30,0,Retargeting
+KFC(Kentucky Fried Chicken),Google Ads,Google Ads | Retargeting | Statewide,2022-04-01,2022-04-30,499,Retargeting
+Levi's Jeans,Facebook Ads,Facebook Ads | Traffic | Local,2022-04-01,2022-04-30,1025,Facebook Traffic
+Levi's Jeans,Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,802,Facebook Traffic
+Levi's Jeans,Google Ads,Google Ads | Retargeting | Statewide,2022-04-01,2022-04-30,1174,Retargeting
+Levi's Jeans,Google Ads,Google Ads | Retargeting | National,2022-04-01,2022-04-30,156,Retargeting
+Levi's Jeans,Facebook Ads,Facebook Ads | Retargeting | National,2022-04-01,2022-04-30,1010,Facebook Retargeting
+Levi's Jeans,Facebook Ads,Facebook Ads | Retargeting | Local,2022-04-01,2022-04-30,164,Facebook Retargeting
+Levi's Jeans,Google Ads,Google Ads | Search | Statewide,2022-04-01,2022-04-30,191,Search
+Levi's Jeans,Google Ads,Google Ads | Search | National,2022-04-01,2022-04-30,1552,Search
+Lipton,Google Ads,Google Ads | Retargeting | Local,2022-04-01,2022-04-30,376,Retargeting
+Lipton,Google Ads,Google Ads | Retargeting | Statewide,2022-04-01,2022-04-30,1174,Retargeting
+Pampers,Google Ads,Google Ads | Retargeting | Local,2022-04-01,2022-04-30,300,Retargeting
+Pampers,Google Ads,Google Ads | Retargeting | National,2022-04-01,2022-04-30,45,Retargeting
+Coca-Cola,Facebook Ads,Facebook Ads | Retargeting | National,2022-04-01,2022-04-30,1455,Facebook Retargeting
+Coca-Cola,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-04-01,2022-04-30,130,Facebook Retargeting
+Coca-Cola,Google Ads,Google Ads | Retargeting | Statewide,2022-04-01,2022-04-30,624,Retargeting
+Coca-Cola,Google Ads,Google Ads | Retargeting | Local,2022-04-01,2022-04-30,178,Retargeting
+Beam Suntory,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-04-01,2022-04-30,1086,Facebook Traffic
+Beam Suntory,Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,378,Facebook Traffic
+Beam Suntory,Google Ads,Google Ads | Retargeting | Local,2022-04-01,2022-04-30,555,Retargeting
+Beam Suntory,Google Ads,Google Ads | Retargeting | National,2022-04-01,2022-04-30,1132,Retargeting
+Beam Suntory,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-04-01,2022-04-30,617,Facebook Retargeting
+Beam Suntory,Facebook Ads,Facebook Ads | Retargeting | Local,2022-04-01,2022-04-30,18,Facebook Retargeting
+Live+,Facebook Ads,Facebook Ads | Retargeting | Local,2022-04-01,2022-04-30,252,Facebook Retargeting
+Live+,Facebook Ads,Facebook Ads | Retargeting | National,2022-04-01,2022-04-30,437,Facebook Retargeting
+Live+,Google Ads,Google Ads | Search | Local,2022-04-01,2022-04-30,71,Search
+Live+,Google Ads,Google Ads | Search | National,2022-04-01,2022-04-30,388,Search
+Live+,Facebook Ads,Facebook Ads | Traffic | Local,2022-04-01,2022-04-30,386,Facebook Traffic
+Live+,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-04-01,2022-04-30,1548,Facebook Traffic
+Tango (drink),Google Ads,Google Ads | Search | Statewide,2022-04-01,2022-04-30,244,Search
+Tango (drink),Google Ads,Google Ads | Search | Local,2022-04-01,2022-04-30,78,Search
+Tango (drink),Google Ads,Google Ads | Retargeting | Local,2022-04-01,2022-04-30,101,Retargeting
+Tango (drink),Google Ads,Google Ads | Retargeting | National,2022-04-01,2022-04-30,73,Retargeting
+Tango (drink),Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,385,Facebook Traffic
+Tango (drink),Facebook Ads,Facebook Ads | Traffic | Statewide,2022-04-01,2022-04-30,32,Facebook Traffic
+Tizer,Facebook Ads,Facebook Ads | Traffic | Local,2022-04-01,2022-04-30,1093,Facebook Traffic
+Tizer,Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,493,Facebook Traffic
+Tizer,Facebook Ads,Facebook Ads | Retargeting | Local,2022-04-01,2022-04-30,621,Facebook Retargeting
+Tizer,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-04-01,2022-04-30,360,Facebook Retargeting
+Tizer,Google Ads,Google Ads | Retargeting | Statewide,2022-04-01,2022-04-30,1718,Retargeting
+Tizer,Google Ads,Google Ads | Retargeting | National,2022-04-01,2022-04-30,16,Retargeting
+ToniCol,Google Ads,Google Ads | Retargeting | Local,2022-04-01,2022-04-30,7,Retargeting
+ToniCol,Google Ads,Google Ads | Retargeting | National,2022-04-01,2022-04-30,1226,Retargeting
+ToniCol,Google Ads,Google Ads | Search | National,2022-04-01,2022-04-30,868,Search
+ToniCol,Google Ads,Google Ads | Search | Statewide,2022-04-01,2022-04-30,459,Search
+ToniCol,Facebook Ads,Facebook Ads | Traffic | Local,2022-04-01,2022-04-30,532,Facebook Traffic
+ToniCol,Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,186,Facebook Traffic
+ToniCol,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-04-01,2022-04-30,6,Facebook Retargeting
+ToniCol,Facebook Ads,Facebook Ads | Retargeting | Local,2022-04-01,2022-04-30,3,Facebook Retargeting
+Campa Cola,Google Ads,Google Ads | Search | Local,2022-04-01,2022-04-30,671,Search
+Campa Cola,Google Ads,Google Ads | Search | Statewide,2022-04-01,2022-04-30,459,Search
+Campa Cola,Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,367,Facebook Traffic
+Campa Cola,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-04-01,2022-04-30,119,Facebook Traffic
+Campa Cola,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-04-01,2022-04-30,905,Facebook Retargeting
+Campa Cola,Facebook Ads,Facebook Ads | Retargeting | Local,2022-04-01,2022-04-30,430,Facebook Retargeting
+Campa Cola,Google Ads,Google Ads | Retargeting | Statewide,2022-04-01,2022-04-30,329,Retargeting
+Campa Cola,Google Ads,Google Ads | Retargeting | Local,2022-04-01,2022-04-30,70,Retargeting
+Mezzo Mix,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-04-01,2022-04-30,1007,Facebook Retargeting
+Mezzo Mix,Facebook Ads,Facebook Ads | Retargeting | Local,2022-04-01,2022-04-30,12,Facebook Retargeting
+Mezzo Mix,Google Ads,Google Ads | Retargeting | Statewide,2022-04-01,2022-04-30,350,Retargeting
+Mezzo Mix,Google Ads,Google Ads | Retargeting | Local,2022-04-01,2022-04-30,1252,Retargeting
+Mezzo Mix,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-04-01,2022-04-30,5,Facebook Traffic
+Mezzo Mix,Facebook Ads,Facebook Ads | Traffic | National,2022-04-01,2022-04-30,54,Facebook Traffic
+Mezzo Mix,Google Ads,Google Ads | Search | Statewide,2022-04-01,2022-04-30,508,Search
+Mezzo Mix,Google Ads,Google Ads | Search | National,2022-04-01,2022-04-30,1138,Search
+Costa Coffee,Facebook Ads,Facebook Ads | Traffic | Local,2022-05-01,2022-05-31,520,Facebook Traffic
+Costa Coffee,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-05-01,2022-05-31,294,Facebook Traffic
+Costa Coffee,Google Ads,Google Ads | Retargeting | National,2022-05-01,2022-05-31,315,Retargeting
+Costa Coffee,Google Ads,Google Ads | Retargeting | Statewide,2022-05-01,2022-05-31,331,Retargeting
+Costa Coffee,Facebook Ads,Facebook Ads | Retargeting | Local,2022-05-01,2022-05-31,1054,Facebook Retargeting
+Costa Coffee,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-05-01,2022-05-31,504,Facebook Retargeting
+Dasani,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-05-01,2022-05-31,467,Facebook Retargeting
+Dasani,Facebook Ads,Facebook Ads | Retargeting | Local,2022-05-01,2022-05-31,3,Facebook Retargeting
+Dasani,Google Ads,Google Ads | Retargeting | Statewide,2022-05-01,2022-05-31,404,Retargeting
+Dasani,Google Ads,Google Ads | Retargeting | National,2022-05-01,2022-05-31,1204,Retargeting
+Dasani,Google Ads,Google Ads | Search | Statewide,2022-05-01,2022-05-31,99,Search
+Dasani,Google Ads,Google Ads | Search | Local,2022-05-01,2022-05-31,379,Search
+Dasani,Facebook Ads,Facebook Ads | Traffic | National,2022-05-01,2022-05-31,579,Facebook Traffic
+Dasani,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-05-01,2022-05-31,1313,Facebook Traffic
+Heineken,Google Ads,Google Ads | Retargeting | National,2022-05-01,2022-05-31,34,Retargeting
+Heineken,Google Ads,Google Ads | Retargeting | Local,2022-05-01,2022-05-31,924,Retargeting
+Heineken,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-05-01,2022-05-31,93,Facebook Retargeting
+Heineken,Facebook Ads,Facebook Ads | Retargeting | Local,2022-05-01,2022-05-31,20,Facebook Retargeting
+Heineken,Google Ads,Google Ads | Search | National,2022-05-01,2022-05-31,608,Search
+Heineken,Google Ads,Google Ads | Search | Statewide,2022-05-01,2022-05-31,972,Search
+Heineken,Facebook Ads,Facebook Ads | Traffic | National,2022-05-01,2022-05-31,324,Facebook Traffic
+Heineken,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-05-01,2022-05-31,273,Facebook Traffic
+Tetley's Brewery,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-05-01,2022-05-31,796,Facebook Traffic
+Tetley's Brewery,Facebook Ads,Facebook Ads | Traffic | National,2022-05-01,2022-05-31,1029,Facebook Traffic
+Batemans Brewery,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-05-01,2022-05-31,387,Facebook Retargeting
+Batemans Brewery,Facebook Ads,Facebook Ads | Retargeting | Local,2022-05-01,2022-05-31,237,Facebook Retargeting
+Batemans Brewery,Google Ads,Google Ads | Retargeting | National,2022-05-01,2022-05-31,517,Retargeting
+Batemans Brewery,Google Ads,Google Ads | Retargeting | Local,2022-05-01,2022-05-31,1021,Retargeting
+Grapette,Google Ads,Google Ads | Retargeting | Local,2022-05-01,2022-05-31,805,Retargeting
+Grapette,Google Ads,Google Ads | Retargeting | National,2022-05-01,2022-05-31,727,Retargeting
+Grapette,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-05-01,2022-05-31,1619,Facebook Retargeting
+Grapette,Facebook Ads,Facebook Ads | Retargeting | Local,2022-05-01,2022-05-31,150,Facebook Retargeting
+Grapette,Google Ads,Google Ads | Search | Local,2022-05-01,2022-05-31,1168,Search
+Grapette,Google Ads,Google Ads | Search | Statewide,2022-05-01,2022-05-31,41,Search
+Grapette,Facebook Ads,Facebook Ads | Traffic | National,2022-05-01,2022-05-31,8,Facebook Traffic
+Grapette,Facebook Ads,Facebook Ads | Traffic | Local,2022-05-01,2022-05-31,1,Facebook Traffic
+Jif (lemon juice),Google Ads,Google Ads | Search | National,2022-05-01,2022-05-31,256,Search
+Jif (lemon juice),Google Ads,Google Ads | Search | Local,2022-05-01,2022-05-31,68,Search
+Royal Tru,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-05-01,2022-05-31,371,Facebook Retargeting
+Royal Tru,Facebook Ads,Facebook Ads | Retargeting | National,2022-05-01,2022-05-31,938,Facebook Retargeting
+Royal Tru,Google Ads,Google Ads | Search | National,2022-05-01,2022-05-31,530,Search
+Royal Tru,Google Ads,Google Ads | Search | Local,2022-05-01,2022-05-31,1195,Search
+Oronamin,Facebook Ads,Facebook Ads | Retargeting | Local,2022-05-01,2022-05-31,811,Facebook Retargeting
+Oronamin,Facebook Ads,Facebook Ads | Retargeting | National,2022-05-01,2022-05-31,992,Facebook Retargeting
+Culligan,Google Ads,Google Ads | Retargeting | Statewide,2022-05-01,2022-05-31,820,Retargeting
+Culligan,Google Ads,Google Ads | Retargeting | National,2022-05-01,2022-05-31,187,Retargeting
+Belvedere Vodka,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-05-01,2022-05-31,174,Facebook Retargeting
+Belvedere Vodka,Facebook Ads,Facebook Ads | Retargeting | Local,2022-05-01,2022-05-31,191,Facebook Retargeting
+Belvedere Vodka,Google Ads,Google Ads | Search | Local,2022-05-01,2022-05-31,924,Search
+Belvedere Vodka,Google Ads,Google Ads | Search | Statewide,2022-05-01,2022-05-31,354,Search
+Wodka Gorbatschow,Google Ads,Google Ads | Retargeting | Statewide,2022-05-01,2022-05-31,75,Retargeting
+Wodka Gorbatschow,Google Ads,Google Ads | Retargeting | National,2022-05-01,2022-05-31,251,Retargeting
+White Horse (whisky),Facebook Ads,Facebook Ads | Traffic | Local,2022-05-01,2022-05-31,484,Facebook Traffic
+White Horse (whisky),Facebook Ads,Facebook Ads | Traffic | National,2022-05-01,2022-05-31,718,Facebook Traffic
+White Horse (whisky),Google Ads,Google Ads | Search | Local,2022-05-01,2022-05-31,253,Search
+White Horse (whisky),Google Ads,Google Ads | Search | Statewide,2022-05-01,2022-05-31,747,Search
+Finlandia (vodka),Google Ads,Google Ads | Search | Local,2022-05-01,2022-05-31,206,Search
+Finlandia (vodka),Google Ads,Google Ads | Search | National,2022-05-01,2022-05-31,29,Search
+Colgate,Google Ads,Google Ads | Search | Statewide,2022-05-01,2022-05-31,1289,Search
+Colgate,Google Ads,Google Ads | Search | National,2022-05-01,2022-05-31,664,Search
+Colgate,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-05-01,2022-05-31,436,Facebook Retargeting
+Colgate,Facebook Ads,Facebook Ads | Retargeting | National,2022-05-01,2022-05-31,942,Facebook Retargeting
+Colgate,Google Ads,Google Ads | Retargeting | National,2022-05-01,2022-05-31,693,Retargeting
+Colgate,Google Ads,Google Ads | Retargeting | Local,2022-05-01,2022-05-31,771,Retargeting
+Colgate,Facebook Ads,Facebook Ads | Traffic | Local,2022-05-01,2022-05-31,619,Facebook Traffic
+Colgate,Facebook Ads,Facebook Ads | Traffic | National,2022-05-01,2022-05-31,554,Facebook Traffic
+Pizza Hut,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-05-01,2022-05-31,427,Facebook Traffic
+Pizza Hut,Facebook Ads,Facebook Ads | Traffic | Local,2022-05-01,2022-05-31,554,Facebook Traffic
+Head & Shoulders,Google Ads,Google Ads | Retargeting | National,2022-05-01,2022-05-31,36,Retargeting
+Head & Shoulders,Google Ads,Google Ads | Retargeting | Local,2022-05-01,2022-05-31,1022,Retargeting
+Domino's Pizza,Google Ads,Google Ads | Search | Local,2022-05-01,2022-05-31,605,Search
+Domino's Pizza,Google Ads,Google Ads | Search | Statewide,2022-05-01,2022-05-31,358,Search
+Domino's Pizza,Facebook Ads,Facebook Ads | Retargeting | National,2022-05-01,2022-05-31,1264,Facebook Retargeting
+Domino's Pizza,Facebook Ads,Facebook Ads | Retargeting | Local,2022-05-01,2022-05-31,270,Facebook Retargeting
+Domino's Pizza,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-05-01,2022-05-31,525,Facebook Traffic
+Domino's Pizza,Facebook Ads,Facebook Ads | Traffic | National,2022-05-01,2022-05-31,240,Facebook Traffic
+Ben & Jerry's,Facebook Ads,Facebook Ads | Traffic | Local,2022-05-01,2022-05-31,152,Facebook Traffic
+Ben & Jerry's,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-05-01,2022-05-31,3,Facebook Traffic
+Gatorade,Google Ads,Google Ads | Retargeting | National,2022-05-01,2022-05-31,767,Retargeting
+Gatorade,Google Ads,Google Ads | Retargeting | Statewide,2022-05-01,2022-05-31,767,Retargeting
+Gatorade,Google Ads,Google Ads | Search | National,2022-05-01,2022-05-31,1314,Search
+Gatorade,Google Ads,Google Ads | Search | Statewide,2022-05-01,2022-05-31,437,Search
+Gatorade,Facebook Ads,Facebook Ads | Traffic | National,2022-05-01,2022-05-31,739,Facebook Traffic
+Gatorade,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-05-01,2022-05-31,71,Facebook Traffic
+Gatorade,Facebook Ads,Facebook Ads | Retargeting | Local,2022-05-01,2022-05-31,70,Facebook Retargeting
+Gatorade,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-05-01,2022-05-31,342,Facebook Retargeting
+Milo,Facebook Ads,Facebook Ads | Retargeting | National,2022-05-01,2022-05-31,3,Facebook Retargeting
+Milo,Facebook Ads,Facebook Ads | Retargeting | Local,2022-05-01,2022-05-31,1342,Facebook Retargeting
+Milo,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-05-01,2022-05-31,914,Facebook Traffic
+Milo,Facebook Ads,Facebook Ads | Traffic | National,2022-05-01,2022-05-31,420,Facebook Traffic
+Milo,Google Ads,Google Ads | Search | Local,2022-05-01,2022-05-31,585,Search
+Milo,Google Ads,Google Ads | Search | National,2022-05-01,2022-05-31,631,Search
+Milo,Google Ads,Google Ads | Retargeting | Local,2022-05-01,2022-05-31,550,Retargeting
+Milo,Google Ads,Google Ads | Retargeting | Statewide,2022-05-01,2022-05-31,731,Retargeting
+Starbucks,Google Ads,Google Ads | Retargeting | Statewide,2022-05-01,2022-05-31,913,Retargeting
+Starbucks,Google Ads,Google Ads | Retargeting | Local,2022-05-01,2022-05-31,711,Retargeting
+Starbucks,Google Ads,Google Ads | Search | Local,2022-05-01,2022-05-31,925,Search
+Starbucks,Google Ads,Google Ads | Search | National,2022-05-01,2022-05-31,357,Search
+Starbucks,Facebook Ads,Facebook Ads | Retargeting | Local,2022-05-01,2022-05-31,802,Facebook Retargeting
+Starbucks,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-05-01,2022-05-31,744,Facebook Retargeting
+Audi,Google Ads,Google Ads | Search | Local,2022-05-01,2022-05-31,1436,Search
+Audi,Google Ads,Google Ads | Search | National,2022-05-01,2022-05-31,74,Search
+Audi,Facebook Ads,Facebook Ads | Retargeting | National,2022-05-01,2022-05-31,269,Facebook Retargeting
+Audi,Facebook Ads,Facebook Ads | Retargeting | Local,2022-05-01,2022-05-31,1606,Facebook Retargeting
+NIVEA,Facebook Ads,Facebook Ads | Traffic | National,2022-05-01,2022-05-31,1237,Facebook Traffic
+NIVEA,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-05-01,2022-05-31,717,Facebook Traffic
+NIVEA,Google Ads,Google Ads | Search | National,2022-05-01,2022-05-31,7,Search
+NIVEA,Google Ads,Google Ads | Search | Local,2022-05-01,2022-05-31,1610,Search
+NIVEA,Facebook Ads,Facebook Ads | Retargeting | National,2022-05-01,2022-05-31,352,Facebook Retargeting
+NIVEA,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-05-01,2022-05-31,1642,Facebook Retargeting
+Nescafe,Facebook Ads,Facebook Ads | Traffic | National,2022-05-01,2022-05-31,339,Facebook Traffic
+Nescafe,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-05-01,2022-05-31,1271,Facebook Traffic
+Nescafe,Facebook Ads,Facebook Ads | Retargeting | National,2022-05-01,2022-05-31,131,Facebook Retargeting
+Nescafe,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-05-01,2022-05-31,907,Facebook Retargeting
+Nescafe,Google Ads,Google Ads | Retargeting | National,2022-05-01,2022-05-31,985,Retargeting
+Nescafe,Google Ads,Google Ads | Retargeting | Statewide,2022-05-01,2022-05-31,419,Retargeting
+KFC(Kentucky Fried Chicken),Google Ads,Google Ads | Search | Local,2022-05-01,2022-05-31,623,Search
+KFC(Kentucky Fried Chicken),Google Ads,Google Ads | Search | National,2022-05-01,2022-05-31,689,Search
+KFC(Kentucky Fried Chicken),Facebook Ads,Facebook Ads | Traffic | National,2022-05-01,2022-05-31,492,Facebook Traffic
+KFC(Kentucky Fried Chicken),Facebook Ads,Facebook Ads | Traffic | Local,2022-05-01,2022-05-31,81,Facebook Traffic
+KFC(Kentucky Fried Chicken),Google Ads,Google Ads | Retargeting | Statewide,2022-05-01,2022-05-31,990,Retargeting
+KFC(Kentucky Fried Chicken),Google Ads,Google Ads | Retargeting | National,2022-05-01,2022-05-31,803,Retargeting
+KFC(Kentucky Fried Chicken),Facebook Ads,Facebook Ads | Retargeting | National,2022-05-01,2022-05-31,394,Facebook Retargeting
+KFC(Kentucky Fried Chicken),Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-05-01,2022-05-31,956,Facebook Retargeting
+Levi's Jeans,Facebook Ads,Facebook Ads | Traffic | Local,2022-05-01,2022-05-31,1396,Facebook Traffic
+Levi's Jeans,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-05-01,2022-05-31,496,Facebook Traffic
+Levi's Jeans,Google Ads,Google Ads | Search | National,2022-05-01,2022-05-31,513,Search
+Levi's Jeans,Google Ads,Google Ads | Search | Local,2022-05-01,2022-05-31,122,Search
+Levi's Jeans,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-05-01,2022-05-31,100,Facebook Retargeting
+Levi's Jeans,Facebook Ads,Facebook Ads | Retargeting | National,2022-05-01,2022-05-31,182,Facebook Retargeting
+Lipton,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-05-01,2022-05-31,345,Facebook Traffic
+Lipton,Facebook Ads,Facebook Ads | Traffic | National,2022-05-01,2022-05-31,1142,Facebook Traffic
+Pampers,Facebook Ads,Facebook Ads | Retargeting | Statewide,2022-05-01,2022-05-31,178,Facebook Retargeting
+Pampers,Facebook Ads,Facebook Ads | Retargeting | National,2022-05-01,2022-05-31,653,Facebook Retargeting
+Pampers,Google Ads,Google Ads | Retargeting | Local,2022-05-01,2022-05-31,147,Retargeting
+Pampers,Google Ads,Google Ads | Retargeting | Statewide,2022-05-01,2022-05-31,913,Retargeting
+Pampers,Facebook Ads,Facebook Ads | Traffic | National,2022-05-01,2022-05-31,614,Facebook Traffic
+Pampers,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-05-01,2022-05-31,663,Facebook Traffic
+Pampers,Google Ads,Google Ads | Search | Local,2022-05-01,2022-05-31,134,Search
+Pampers,Google Ads,Google Ads | Search | Statewide,2022-05-01,2022-05-31,699,Search
+Coca-Cola,Google Ads,Google Ads | Search | National,2022-05-01,2022-05-31,531,Search
+Coca-Cola,Google Ads,Google Ads | Search | Local,2022-05-01,2022-05-31,257,Search
+Coca-Cola,Facebook Ads,Facebook Ads | Retargeting | Local,2022-05-01,2022-05-31,636,Facebook Retargeting
+Coca-Cola,Facebook Ads,Facebook Ads | Retargeting | National,2022-05-01,2022-05-31,869,Facebook Retargeting
+Coca-Cola,Facebook Ads,Facebook Ads | Traffic | Statewide,2022-05-01,2022-05-31,356,Facebook Traffic
+Coca-Cola,Facebook Ads,Facebook Ads | Traffic | Local,2022-05-01,2022-05-31,1369,Facebook Traffic
+Beam Suntory,Google Ads,Google Ads | Retargeting | National,2022-05-01,2022-05-31,273,Retargeting
+Beam Suntory,Google Ads,Google Ads | Retargeting | Local,2022-05-01,2022-05-31,525,Retargeting
+Beam Suntory,Facebook Ads,Facebook Ads | Traffic | Local,2022-05-01,2022-05-31,110,Facebook Traffic
+Beam Suntory,Facebook Ads,Facebook Ads | Traffic | National,2022-05-01,2022-05-31,22,Facebook Traffic
+Live+,Google Ads,Google Ads | Search | Local,2022-05-01,2022-05-31,1053,Search
+Live+,Google Ads,Google Ads | Search | Statewide,2022-05-01,2022-05-31,148,Search

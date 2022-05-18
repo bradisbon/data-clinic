@@ -1,0 +1,262 @@
+company,gl,description,date,amount,tactic
+Evian ,4305,Monthly Retargeting Retainer,2022-03-10,1740,Retargeting
+Evian,4315,Monthly Traffic Retainer,2022-03-18,2044,Facebook Traffic
+Evian,4315,Monthly Retargeting Retainer,2022-03-30,1495,Facebook Retargeting
+Dasani,4305,Monthly Search Retainer,2022-03-20,1895,Search
+Dasani,4315,Monthly Traffic Retainer,2022-03-10,1370,Facebook Traffic
+Heineken,4315,Monthly Traffic Retainer,2022-03-13,12,Facebook Traffic
+Gatorade,4315,Monthly Traffic Retainer,2022-03-12,621,Facebook Traffic
+Gatorade,4305,Monthly Search Retainer,2022-03-05,1866,Search
+Gatorade,4315,Monthly Retargeting Retainer,2022-03-14,542,Facebook Retargeting
+Gatorade,4305,Monthly Retargeting Retainer,2022-03-20,1727,Retargeting
+Tetley's Brewery,4305,Monthly Search Retainer,2022-03-31,180,Search
+Jones Soda,4315,Monthly Traffic Retainer,2022-03-20,1213,Facebook Traffic
+Grapette,4305,Monthly Search Retainer,2022-03-03,553,Search
+Grapette,4305,Monthly Retargeting Retainer,2022-03-09,1015,Retargeting
+Grapette,4315,Monthly Retargeting Retainer,2022-03-12,15,Facebook Retargeting
+Grapette,4315,Monthly Traffic Retainer,2022-03-10,179,Facebook Traffic
+Jif (lemon juice),4305,Monthly Search Retainer,2022-03-13,1069,Search
+Jif (lemon juice),4315,Monthly Retargeting Retainer,2022-03-29,705,Facebook Retargeting
+Jif (lemon juice),4315,Monthly Traffic Retainer,2022-03-07,205,Facebook Traffic
+Jif (lemon juice),4305,Monthly Retargeting Retainer,2022-03-29,308,Retargeting
+Royal Tru,4305,Monthly Retargeting Retainer,2022-03-02,58,Retargeting
+Royal Tru,4315,Monthly Traffic Retainer,2022-03-02,1214,Facebook Traffic
+Oronamin,4315,Monthly Retargeting Retainer,2022-03-14,1307,Facebook Retargeting
+Oronamin,4305,Monthly Retargeting Retainer,2022-03-09,723,Retargeting
+Oronamin,4305,Monthly Search Retainer,2022-03-23,555,Search
+Oronamin,4315,Monthly Traffic Retainer,2022-03-24,602,Facebook Traffic
+Culligan,4315,Monthly Traffic Retainer,2022-03-25,1264,Facebook Traffic
+Culligan,4315,Monthly Retargeting Retainer,2022-03-27,2118,Facebook Retargeting
+Culligan,4305,Monthly Retargeting Retainer,2022-03-19,1615,Retargeting
+Culligan,4305,Monthly Search Retainer,2022-03-05,393,Search
+Fanta,4315,Monthly Traffic Retainer,2022-03-15,674,Facebook Traffic
+Fanta,4315,Monthly Retargeting Retainer,2022-03-22,968,Facebook Retargeting
+Fanta,4305,Monthly Retargeting Retainer,2022-03-18,335,Retargeting
+Fanta,4305,Monthly Search Retainer,2022-03-18,136,Search
+Pizza Hut,4305,Monthly Search Retainer,2022-03-03,258,Search
+Pizza Hut ,4305,Monthly Retargeting Retainer,2022-03-09,1808,Retargeting
+Pizza Hut,4315,Monthly Traffic Retainer,2022-03-03,564,Facebook Traffic
+Pizza Hut,4315,Monthly Retargeting Retainer,2022-03-27,13,Facebook Retargeting
+Head & Shoulders,4315,Monthly Retargeting Retainer,2022-03-03,1194,Facebook Retargeting
+Head & Shoulders,4305,Monthly Retargeting Retainer,2022-03-24,352,Retargeting
+Head & Shoulders,4315,Monthly Traffic Retainer,2022-03-17,132,Facebook Traffic
+Head & Shoulders,4305,Monthly Search Retainer,2022-03-24,747,Search
+Domino's Pizza,4315,Monthly Retargeting Retainer,2022-03-25,2045,Facebook Retargeting
+Domino's Pizza ,4315,Monthly Traffic Retainer,2022-03-31,1981,Facebook Traffic
+Ben & Jerry's,4305,Monthly Retargeting Retainer,2022-03-02,772,Retargeting
+Ben & Jerry's,4305,Monthly Search Retainer,2022-03-15,1571,Search
+Heineken,4305,Monthly Retargeting Retainer,2022-03-27,1762,Retargeting
+Heineken,4315,Monthly Traffic Retainer,2022-03-16,1829,Facebook Traffic
+Milo ,4315,Monthly Retargeting Retainer,2022-03-26,835,Facebook Retargeting
+Milo,4305,Monthly Search Retainer,2022-03-15,1076,Search
+Milo,4315,Monthly Traffic Retainer,2022-03-13,113,Facebook Traffic
+Starbucks,4305,Monthly Search Retainer,2022-03-14,1292,Search
+Starbucks,4315,Monthly Retargeting Retainer,2022-03-11,1554,Facebook Retargeting
+Audi,4315,Monthly Retargeting Retainer,2022-03-16,486,Facebook Retargeting
+Audi,4305,Monthly Retargeting Retainer,2022-03-25,1079,Retargeting
+Audi,4315,Monthly Traffic Retainer,2022-03-06,1670,Facebook Traffic
+Snickers,4305,Monthly Retargeting Retainer,2022-03-05,118,Retargeting
+Snickers,4315,Monthly Traffic Retainer,2022-03-22,121,Facebook Traffic
+Snickers ,4305,Monthly Search Retainer,2022-03-05,334,Search
+Nescafe ,4305,Monthly Retargeting Retainer,2022-03-17,1524,Retargeting
+Nescafe,4305,Monthly Search Retainer,2022-03-02,546,Search
+Nescafe ,4315,Monthly Retargeting Retainer,2022-03-19,1114,Facebook Retargeting
+KFC(Kentucky Fried Chicken),4305,Monthly Search Retainer,2022-03-31,1267,Search
+KFC(Kentucky Fried Chicken),4315,Monthly Retargeting Retainer,2022-03-20,1666,Facebook Retargeting
+KFC(Kentucky Fried Chicken),4305,Monthly Retargeting Retainer,2022-03-30,153,Retargeting
+Levi's Jeans,4315,Monthly Retargeting Retainer,2022-03-10,176,Facebook Retargeting
+Levi's Jeans,4315,Monthly Traffic Retainer,2022-03-24,756,Facebook Traffic
+Levi's Jeans,4305,Monthly Retargeting Retainer,2022-03-14,1377,Retargeting
+Pampers,4315,Monthly Traffic Retainer,2022-03-15,1961,Facebook Traffic
+Pampers,4305,Monthly Retargeting Retainer,2022-03-22,1142,Retargeting
+Pampers,4315,Monthly Retargeting Retainer,2022-03-30,1587,Facebook Retargeting
+Pampers,4305,Monthly Search Retainer,2022-03-16,1918,Search
+Coca-Cola,4315,Monthly Retargeting Retainer,2022-03-26,1982,Facebook Retargeting
+Tango (drink),4305,Monthly Retargeting Retainer,2022-03-07,1784,Retargeting
+Tango (drink),4315,Monthly Retargeting Retainer,2022-03-29,320,Facebook Retargeting
+Tango (drink),4315,Monthly Traffic Retainer,2022-03-07,1466,Facebook Traffic
+Tizer,4305,Monthly Search Retainer,2022-03-24,1304,Search
+Dr. Enuf ,4315,Monthly Traffic Retainer,2022-03-16,1528,Facebook Traffic
+ToniCol,4305,Monthly Search Retainer,2022-03-03,206,Search
+Campa Cola,4305,Monthly Retargeting Retainer,2022-03-27,621,Retargeting
+Campa Cola,4305,Monthly Search Retainer,2022-03-31,1831,Search
+Campa Cola,4315,Monthly Retargeting Retainer,2022-03-07,1664,Facebook Retargeting
+Mezzo Mix,4315,Monthly Retargeting Retainer,2022-03-19,1756,Facebook Retargeting
+Costa Coffee,4315,Monthly Traffic Retainer,2022-04-10,230,Facebook Traffic
+Costa Coffee,4305,Monthly Retargeting Retainer,2022-04-10,591,Retargeting
+Dasani,4305,Monthly Search Retainer,2022-04-05,1533,Search
+Dasani,4305,Monthly Retargeting Retainer,2022-04-29,531,Retargeting
+Dasani ,4315,Monthly Retargeting Retainer,2022-04-03,206,Facebook Retargeting
+Dasani,4315,Monthly Traffic Retainer,2022-04-05,1879,Facebook Traffic
+Heineken,4305,Monthly Search Retainer,2022-04-08,1169,Search
+Heineken,4315,Monthly Traffic Retainer,2022-04-27,572,Facebook Traffic
+Heineken,4305,Monthly Retargeting Retainer,2022-04-25,987,Retargeting
+Gatorade,4305,Monthly Retargeting Retainer,2022-04-18,218,Retargeting
+Gatorade,4315,Monthly Traffic Retainer,2022-04-26,609,Facebook Traffic
+Gatorade,4315,Monthly Retargeting Retainer,2022-04-17,1333,Facebook Retargeting
+Tetley's Brewery,4305,Monthly Retargeting Retainer,2022-04-08,69,Retargeting
+Tetley's Brewery,4315,Monthly Traffic Retainer,2022-04-06,1156,Facebook Traffic
+Batemans Brewery,4305,Monthly Search Retainer,2022-04-03,1653,Search
+Batemans Brewery,4315,Monthly Retargeting Retainer,2022-04-22,320,Facebook Retargeting
+Batemans Brewery ,4315,Monthly Traffic Retainer,2022-04-03,1206,Facebook Traffic
+Batemans Brewery,4305,Monthly Retargeting Retainer,2022-04-30,1082,Retargeting
+Grapette,4315,Monthly Retargeting Retainer,2022-04-10,1497,Facebook Retargeting
+Grapette,4315,Monthly Traffic Retainer,2022-04-24,314,Facebook Traffic
+Grapette,4305,Monthly Retargeting Retainer,2022-04-29,115,Retargeting
+Grapette,4305,Monthly Search Retainer,2022-04-20,640,Search
+Jif (lemon juice),4305,Monthly Retargeting Retainer,2022-04-18,1315,Retargeting
+Royal Tru,4305,Monthly Retargeting Retainer,2022-04-12,791,Retargeting
+Royal Tru,4315,Monthly Traffic Retainer,2022-04-21,1355,Facebook Traffic
+Royal Tru,4305,Monthly Search Retainer,2022-04-03,62,Search
+Oronamin,4305,Monthly Search Retainer,2022-04-01,1135,Search
+Belvedere Vodka,4305,Monthly Retargeting Retainer,2022-04-11,1732,Retargeting
+Belvedere Vodka,4315,Monthly Traffic Retainer,2022-04-17,862,Facebook Traffic
+Belvedere Vodka,4315,Monthly Retargeting Retainer,2022-04-16,1848,Facebook Retargeting
+Wodka Gorbatschow,4315,Monthly Traffic Retainer,2022-04-17,319,Facebook Traffic
+White Horse (whisky),4315,Monthly Traffic Retainer,2022-04-27,933,Facebook Traffic
+White Horse (whisky),4305,Monthly Search Retainer,2022-04-22,1580,Search
+Grand Old Parr,4315,Monthly Traffic Retainer,2022-04-25,1491,Facebook Traffic
+Grand Old Parr,4305,Monthly Search Retainer,2022-04-19,1080,Search
+Grand Old Parr,4315,Monthly Retargeting Retainer,2022-04-29,1530,Facebook Retargeting
+Finlandia (vodka),4315,Monthly Traffic Retainer,2022-04-30,1157,Facebook Traffic
+Finlandia (vodka),4305,Monthly Search Retainer,2022-04-07,107,Search
+Finlandia (vodka),4305,Monthly Retargeting Retainer,2022-04-02,1781,Retargeting
+Head & Shoulders,4315,Monthly Traffic Retainer,2022-04-02,1875,Facebook Traffic
+Head & Shoulders,4305,Monthly Retargeting Retainer,2022-04-07,922,Retargeting
+Head & Shoulders,4315,Monthly Retargeting Retainer,2022-04-14,656,Facebook Retargeting
+Head & Shoulders,4305,Monthly Search Retainer,2022-04-08,799,Search
+Domino's Pizza,4305,Monthly Search Retainer,2022-04-16,1053,Search
+Domino's Pizza,4315,Monthly Traffic Retainer,2022-04-06,91,Facebook Traffic
+Domino's Pizza,4315,Monthly Retargeting Retainer,2022-04-06,619,Facebook Retargeting
+Domino's Pizza,4305,Monthly Retargeting Retainer,2022-04-08,1713,Retargeting
+Ben & Jerry's,4305,Monthly Search Retainer,2022-04-27,981,Search
+Ben & Jerry's,4305,Monthly Retargeting Retainer,2022-04-22,320,Retargeting
+Ben & Jerry's,4315,Monthly Traffic Retainer,2022-04-13,26,Facebook Traffic
+Heineken,4315,Monthly Retargeting Retainer,2022-04-25,53,Facebook Retargeting
+Gatorade,4315,Monthly Traffic Retainer,2022-04-05,1518,Facebook Traffic
+Gatorade ,4305,Monthly Search Retainer,2022-04-15,1050,Search
+Gatorade,4315,Monthly Retargeting Retainer,2022-04-21,1840,Facebook Retargeting
+Gatorade,4305,Monthly Retargeting Retainer,2022-04-06,1334,Retargeting
+Milo,4315,Monthly Retargeting Retainer,2022-04-21,1238,Facebook Retargeting
+Starbucks,4305,Monthly Search Retainer,2022-04-15,1366,Search
+Starbucks,4315,Monthly Retargeting Retainer,2022-04-22,1269,Facebook Retargeting
+Starbucks,4315,Monthly Traffic Retainer,2022-04-10,434,Facebook Traffic
+Audi ,4315,Monthly Retargeting Retainer,2022-04-27,1900,Facebook Retargeting
+Audi,4305,Monthly Retargeting Retainer,2022-04-03,1299,Retargeting
+Audi,4305,Monthly Search Retainer,2022-04-21,730,Search
+Audi,4315,Monthly Traffic Retainer,2022-04-28,1398,Facebook Traffic
+NIVEA,4315,Monthly Traffic Retainer,2022-04-20,1923,Facebook Traffic
+Snickers,4305,Monthly Search Retainer,2022-04-05,352,Search
+Snickers,4315,Monthly Traffic Retainer,2022-04-10,1442,Facebook Traffic
+Snickers,4305,Monthly Retargeting Retainer,2022-04-10,2127,Retargeting
+Snickers,4315,Monthly Retargeting Retainer,2022-04-15,371,Facebook Retargeting
+Nescafe,4315,Monthly Retargeting Retainer,2022-04-16,1466,Facebook Retargeting
+KFC(Kentucky Fried Chicken),4305,Monthly Retargeting Retainer,2022-04-03,529,Retargeting
+Levi's Jeans,4315,Monthly Traffic Retainer,2022-04-12,1580,Facebook Traffic
+Levi's Jeans,4305,Monthly Retargeting Retainer,2022-04-12,1171,Retargeting
+Levi's Jeans,4315,Monthly Retargeting Retainer,2022-04-28,1235,Facebook Retargeting
+Levi's Jeans,4305,Monthly Search Retainer,2022-04-01,1888,Search
+Lipton,4305,Monthly Retargeting Retainer,2022-04-15,1570,Retargeting
+Pampers,4305,Monthly Retargeting Retainer,2022-04-29,351,Retargeting
+Coca-Cola,4315,Monthly Retargeting Retainer,2022-04-18,1659,Facebook Retargeting
+Coca-Cola,4305,Monthly Retargeting Retainer,2022-04-13,745,Retargeting
+Beam Suntory,4315,Monthly Traffic Retainer,2022-04-05,1635,Facebook Traffic
+Beam Suntory,4305,Monthly Retargeting Retainer,2022-04-20,1848,Retargeting
+Beam Suntory,4315,Monthly Retargeting Retainer,2022-04-23,558,Facebook Retargeting
+Live+,4315,Monthly Retargeting Retainer,2022-04-23,701,Facebook Retargeting
+Live+,4305,Monthly Search Retainer,2022-04-04,504,Search
+Live+,4315,Monthly Traffic Retainer,2022-04-02,2117,Facebook Traffic
+Tango (drink),4305,Monthly Search Retainer,2022-04-19,334,Search
+Tango (drink),4305,Monthly Retargeting Retainer,2022-04-12,196,Retargeting
+Tango (drink),4315,Monthly Traffic Retainer,2022-04-09,466,Facebook Traffic
+Tizer,4315,Monthly Traffic Retainer,2022-04-23,1667,Facebook Traffic
+Tizer,4315,Monthly Retargeting Retainer,2022-04-04,931,Facebook Retargeting
+Tizer,4305,Monthly Retargeting Retainer,2022-04-30,1632,Retargeting
+ToniCol,4305,Monthly Retargeting Retainer,2022-04-16,1107,Retargeting
+ToniCol,4305,Monthly Search Retainer,2022-04-19,1213,Search
+ToniCol,4315,Monthly Traffic Retainer,2022-04-16,803,Facebook Traffic
+ToniCol,4315,Monthly Retargeting Retainer,2022-04-11,9,Facebook Retargeting
+Campa Cola,4305,Monthly Search Retainer,2022-04-17,990,Search
+Campa Cola,4315,Monthly Traffic Retainer,2022-04-29,476,Facebook Traffic
+Campa Cola,4315,Monthly Retargeting Retainer,2022-04-22,1147,Facebook Retargeting
+Campa Cola ,4305,Monthly Retargeting Retainer,2022-04-26,385,Retargeting
+Mezzo Mix,4315,Monthly Retargeting Retainer,2022-04-21,1110,Facebook Retargeting
+Mezzo Mix,4305,Monthly Retargeting Retainer,2022-04-01,1708,Retargeting
+Mezzo Mix,4315,Monthly Traffic Retainer,2022-04-01,58,Facebook Traffic
+Mezzo Mix,4305,Monthly Search Retainer,2022-04-17,1501,Search
+Costa Coffee,4315,Monthly Traffic Retainer,2022-05-16,909,Facebook Traffic
+Costa Coffee,4305,Monthly Retargeting Retainer,2022-05-20,613,Retargeting
+Costa Coffee,4315,Monthly Retargeting Retainer,2022-05-22,1486,Facebook Retargeting
+Dasani,4315,Monthly Retargeting Retainer,2022-05-12,469,Facebook Retargeting
+Dasani,4305,Monthly Retargeting Retainer,2022-05-17,1444,Retargeting
+Dasani,4305,Monthly Search Retainer,2022-05-03,449,Search
+Dasani,4315,Monthly Traffic Retainer,2022-05-19,1933,Facebook Traffic
+Heineken,4305,Monthly Retargeting Retainer,2022-05-17,961,Retargeting
+Heineken,4315,Monthly Retargeting Retainer,2022-05-29,108,Facebook Retargeting
+Heineken,4305,Monthly Search Retainer,2022-05-26,1455,Search
+Heineken,4315,Monthly Traffic Retainer,2022-05-20,562,Facebook Traffic
+Tetley's Brewery ,4315,Monthly Traffic Retainer,2022-05-11,1929,Facebook Traffic
+Batemans Brewery,4315,Monthly Retargeting Retainer,2022-05-11,652,Facebook Retargeting
+Batemans Brewery,4305,Monthly Retargeting Retainer,2022-05-30,1398,Retargeting
+Grapette,4305,Monthly Retargeting Retainer,2022-05-14,1737,Retargeting
+Grapette,4315,Monthly Retargeting Retainer,2022-05-20,1714,Facebook Retargeting
+Grapette,4305,Monthly Search Retainer,2022-05-09,1346,Search
+Grapette,4315,Monthly Traffic Retainer,2022-05-26,9,Facebook Traffic
+Jif (lemon juice) ,4305,Monthly Search Retainer,2022-05-04,276,Search
+Royal Tru,4315,Monthly Retargeting Retainer,2022-05-24,1263,Facebook Retargeting
+Royal Tru,4305,Monthly Search Retainer,2022-05-18,1490,Search
+Oronamin,4315,Monthly Retargeting Retainer,2022-05-27,1775,Facebook Retargeting
+Culligan,4305,Monthly Retargeting Retainer,2022-05-22,1094,Retargeting
+Belvedere Vodka,4315,Monthly Retargeting Retainer,2022-05-25,358,Facebook Retargeting
+Belvedere Vodka,4305,Monthly Search Retainer,2022-05-13,1171,Search
+Wodka Gorbatschow,4305,Monthly Retargeting Retainer,2022-05-31,355,Retargeting
+White Horse (whisky),4315,Monthly Traffic Retainer,2022-05-23,1075,Facebook Traffic
+White Horse (whisky),4305,Monthly Search Retainer,2022-05-03,1020,Search
+Finlandia (vodka),4305,Monthly Search Retainer,2022-05-18,218,Search
+Colgate,4305,Monthly Search Retainer,2022-05-09,1962,Search
+Colgate,4315,Monthly Retargeting Retainer,2022-05-26,1216,Facebook Retargeting
+Colgate,4305,Monthly Retargeting Retainer,2022-05-24,1263,Retargeting
+Colgate,4315,Monthly Traffic Retainer,2022-05-08,1112,Facebook Traffic
+Pizza Hut,4315,Monthly Traffic Retainer,2022-05-29,956,Facebook Traffic
+Head & Shoulders,4305,Monthly Retargeting Retainer,2022-05-03,982,Retargeting
+Domino's Pizza,4305,Monthly Search Retainer,2022-05-27,852,Search
+Domino's Pizza,4315,Monthly Retargeting Retainer,2022-05-02,1445,Facebook Retargeting
+Domino's Pizza,4315,Monthly Traffic Retainer,2022-05-05,731,Facebook Traffic
+Ben & Jerry's,4315,Monthly Traffic Retainer,2022-05-09,131,Facebook Traffic
+Gatorade,4305,Monthly Retargeting Retainer,2022-05-29,1469,Retargeting
+Gatorade ,4305,Monthly Search Retainer,2022-05-12,1679,Search
+Gatorade,4315,Monthly Traffic Retainer,2022-05-10,739,Facebook Traffic
+Gatorade,4315,Monthly Retargeting Retainer,2022-05-09,426,Facebook Retargeting
+Milo,4315,Monthly Retargeting Retainer,2022-05-11,1288,Facebook Retargeting
+Milo,4315,Monthly Traffic Retainer,2022-05-14,1504,Facebook Traffic
+Milo,4305,Monthly Search Retainer,2022-05-20,1114,Search
+Milo,4305,Monthly Retargeting Retainer,2022-05-18,1440,Retargeting
+Starbucks,4305,Monthly Retargeting Retainer,2022-05-27,1469,Retargeting
+Starbucks,4305,Monthly Search Retainer,2022-05-26,1203,Search
+Starbucks,4315,Monthly Retargeting Retainer,2022-05-08,1772,Facebook Retargeting
+Audi,4305,Monthly Search Retainer,2022-05-01,1444,Search
+Audi,4315,Monthly Retargeting Retainer,2022-05-13,1629,Facebook Retargeting
+NIVEA,4315,Monthly Traffic Retainer,2022-05-19,2003,Facebook Traffic
+NIVEA,4305,Monthly Search Retainer,2022-05-17,1719,Search
+NIVEA,4315,Monthly Retargeting Retainer,2022-05-11,2065,Facebook Retargeting
+Nescafe,4315,Monthly Traffic Retainer,2022-05-25,1376,Facebook Traffic
+Nescafe,4315,Monthly Retargeting Retainer,2022-05-23,1067,Facebook Retargeting
+Nescafe,4305,Monthly Retargeting Retainer,2022-05-02,1371,Retargeting
+KFC(Kentucky Fried Chicken),4305,Monthly Search Retainer,2022-05-06,1441,Search
+KFC(Kentucky Fried Chicken),4315,Monthly Traffic Retainer,2022-05-08,645,Facebook Traffic
+KFC(Kentucky Fried Chicken),4305,Monthly Retargeting Retainer,2022-05-24,1796,Retargeting
+KFC(Kentucky Fried Chicken),4315,Monthly Retargeting Retainer,2022-05-28,1543,Facebook Retargeting
+Levi's Jeans,4315,Monthly Traffic Retainer,2022-05-28,2021,Facebook Traffic
+Levi's Jeans,4305,Monthly Search Retainer,2022-05-10,681,Search
+Levi's Jeans,4315,Monthly Retargeting Retainer,2022-05-16,295,Facebook Retargeting
+Lipton,4315,Monthly Traffic Retainer,2022-05-12,1549,Facebook Traffic
+Pampers,4315,Monthly Retargeting Retainer,2022-05-18,846,Facebook Retargeting
+Pampers,4305,Monthly Retargeting Retainer,2022-05-12,919,Retargeting
+Pampers,4315,Monthly Traffic Retainer,2022-05-17,1405,Facebook Traffic
+Pampers,4305,Monthly Search Retainer,2022-05-25,824,Search
+Coca-Cola,4305,Monthly Search Retainer,2022-05-06,882,Search
+Coca-Cola,4315,Monthly Retargeting Retainer,2022-05-28,1458,Facebook Retargeting
+Coca-Cola,4315,Monthly Traffic Retainer,2022-05-23,1588,Facebook Traffic
+Beam Suntory,4305,Monthly Retargeting Retainer,2022-05-20,893,Retargeting
+Beam Suntory,4315,Monthly Traffic Retainer,2022-05-21,121,Facebook Traffic
+Live+,4305,Monthly Search Retainer,2022-05-03,1296,Search
